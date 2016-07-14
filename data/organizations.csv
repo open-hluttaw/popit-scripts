@@ -1,0 +1,74 @@
+popit_id,name_en,name_mm,parent_org_en,parent_org_mm,classification_en,classification_mm,geographic_area,description,start_date,end_date,image,contact,links
+897739b2831e41109713ac9d8a96c845,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Pyidaungsu Hluttaw,ပြည်ထောင်စုလွှတ်တော်,Upper House,လွှတ်တော်,တစ်နိုင်ငံလုံး,,,,,,
+7f162ebef80e4a4aba12361ea1151fce,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Pyidaungsu Hluttaw,ပြည်ထောင်စုလွှတ်တော်,Lower House,လွှတ်တော်,တစ်နိုင်ငံလုံး,,,,,,
+,Kachin State Hluttaw,ကချင်ပြည်နယ်လွှတ်တော်,Kachin State,ကချင်ပြည်နယ်,Regional Parliament,လွှတ်တော်,ကချင်ပြည်နယ်,,,,,,
+,Kayah State Hluttaw,ကယားပြည်နယ်လွှတ်တော်,Kayah State,ကယားပြည်နယ်,Regional Parliament,လွှတ်တော်,ကယားပြည်နယ်,,,,,,
+,Kayin State Hluttaw,ကရင်ပြည်နယ်လွှတ်တော်,Kayin State,ကရင်ပြည်နယ်,Regional Parliament,လွှတ်တော်,ကရင်ပြည်နယ်,,,,,,
+,Chin State Hluttaw,ချင်းပြည်နယ်လွှတ်တော်,Chin State,ချင်းပြည်နယ်,Regional Parliament,လွှတ်တော်,ချင်းပြည်နယ်,,,,,,
+,Sagaing Region Hluttaw,စစ်ကိုင်းတိုင်းဒေသကြီးလွှတ်တော်,Sagaing Region,စစ်ကိုင်းတိုင်းဒေသကြီး,Regional Parliament,လွှတ်တော်,စစ်ကိုင်းတိုင်း,,,,,,
+,Taninthayi Region Hluttaw,တင်္နသာရီတိုင်းဒေသကြီးလွှတ်တော်,Tanintharyi Region,တင်္နသာရီတိုင်းဒေသကြီး,Regional Parliament,လွှတ်တော်,တင်္နသာရီတိုင်းဒေသကြီး,,,,,,
+,Bago Region Hluttaw,ပဲခူးတိုင်းဒေသကြီးလွှတ်တော်,Bago Region,ပဲခူးတိုင်းဒေသကြီး,Regional Parliament,လွှတ်တော်,ပဲခူးတိုင်းဒေသကြီး,,,,,,
+,Magway Region Hluttaw,မကွေးတိုင်းဒေသကြီးလွှတ်တော်,Magway Region,မကွေးတိုင်းးဒေသကြီး,Regional Parliament,လွှတ်တော်,မကွေးတိုင်းးဒေသကြီး,,,,,,
+,Mandalay Region Hluttaw,မန္တလေးတိုင်းဒေသကြီးလွှတ်တော်,Mandalay Region,မန္တလေးတိုင်းဒေသကြီး,Regional Parliament,လွှတ်တော်,မန္တလေးတိုင်းဒေသကြီး,,,,,,
+,Mon State Hluttaw,မွန်ပြည်နယ်လွှတ်တော်,Mon State,မွန်ပြည်နယ်,Regional Parliament,လွှတ်တော်,မွန်ပြည်နယ်,,,,,,
+,Rakhine State Hluttaw,ရခိုင်ပြည်နယ်လွှတ်တော်,Rakhine State,ရခိုင်ပြည်နယ်,Regional Parliament,လွှတ်တော်,ရခိုင်ပြည်နယ်,,,,,,
+,Yangon Region Hluttaw,ရန်ကုန်တိုင်းဒေသကြီးလွှတ်တော်,Yangon Region,ရန်ကုန်တိုင်းဒေသကြီး,Regional Parliament,လွှတ်တော်,ရန်ကုန်တိုင်းဒေသကြီး,,,,,,
+,Shan State Hluttaw,ရှမ်းပြည်နယ်လွှတ်တော်,Shan State,ရှမ်းပြည်နယ်,Regional Parliament,လွှတ်တော်,ရှမ်းပြည်နယ်,,,,,,
+,Ayeyawaddy Region Hluttaw,ဧရာ၀တီတိုင်းဒေသကြီးလွှတ်တော်,Ayeyawaddy Region,ဧရာ၀တီတိုင်းဒေသကြီး,Regional Parliament,လွှတ်တော်,ဧရာ၀တီတိုင်းဒေသကြီး,,,,,,
+,,,,,,,,,,,,,
+,Pyihtaungsu Hluttaw Joint Public Accounts Committee ,ပြည်ထောင်စုလွှတ်တော် ပြည်သူ့ငွေစာရင်းပူးပေါင်းကော်မတီ,Pyidaungsu Hluttaw,ပြည်ထောင်စုလွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyidaungsu Hluttaw Joint Hluttaw Representatives Vetting Committee,ပြည်ထောင်စုလွှတ်တော် ကိုယ်စားလှယ်များစိစစ်ရေးပူးပေါင်းကော်မတီ,Pyidaungsu Hluttaw,ပြည်ထောင်စုလွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyidaungsu Hluttaw Joint Bill Committee,ပြည်ထောင်စုလွှတ်တော် ဥပဒေကြမ်းပူးပေါင်းကော်မတီ,Pyidaungsu Hluttaw,ပြည်ထောင်စုလွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyidaungsu Hluttaw Joint Committee on Inter-Parliamentary Union,ပြည်ထောင်စုလွှတ်တော် နိုင်ငံတကာပါလီမန်များညီလာခံဆိုင်ရာ ပူးပေါင်းကော်မတီ,Pyidaungsu Hluttaw,ပြည်ထောင်စုလွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyidaungsu Hluttaw Joint Committee on ASEAN Inter-Parliamentary Union,ပြည်ထောင်စုလွှတ်တော် အာဆီယံပါလီမန်များညီလာခံဆိုင်ရာ ပူးပေါင်းကော်မတီ,Pyidaungsu Hluttaw,ပြည်ထောင်စုလွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Amyotha Hluttaw Education Promotion Committee,အမျိုးသားလွှတ်တော် ပညာရေးမြှင့်တင်မှုကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-approves-forms-parliamentary-committees/
+,Amyotha Hluttaw Public Complaints Committee,အမျိုးသားလွှတ်တော် ပြည်သူတို့၏ တိုင်ကြားစာဆိုင်ရာကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-forms-two-more-committees/
+,Amyotha Hluttaw Ethnic Affairs Committee,အမျိုးသားလွှတ်တော် တိုင်းရင်းသားရေးရာကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-approves-forms-parliamentary-committees/
+,Amyotha Hluttaw Farmer Affairs Committee ,အမျိုးသားလွှတ်တော် တောင်သူလယ်သမားရေးရာကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-approves-forms-parliamentary-committees/
+,"Amyotha Hluttaw Health, Sports and Culture Committee",အမျိုးသားလွှတ်တော်လွှတ်တော် ကျန်းမာရေး၊အားကစားနှင့်ယဉ်ကျေးမှုဆိုင်ရာကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,
+,"Amyotha Hluttaw International Relations, Inter-parlimentary Relations and Cooperation Committee",အမျိုးသားလွှတ်တော် နိုင်ငံတကာဆက်ဆံရေး၊ လွှတ်တော်ချင်းချစ်ကြည်ရေးနှင့် ပူးပေါင်းဆောင်ရွက်ရေးကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,
+,Amyotha Hluttaw Local and Overseas Employment Committee ,အမျိုးသားလွှတ်တော် ပြည်တွင်းပြည်ပအလုပ်သမားဆိုင်ရာကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-approves-forms-parliamentary-committees/
+,Amyotha Hluttaw Local and International Non-Government Organizations Committee,အမျိုးသားလွှတ်တော်အစိုးရမဟုတ်သော ပြည်တွင်းပြည်ပ အဖွဲ့အစည်းများဆိုင်ရာကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,
+,"Amyotha Hluttaw Mineral, Natural Resources and Environmental Conservation Committee",အမျိုးသားလွှတ်တော် သတ္တုသယံဇာတနှင့်သဘာဝပတ်ဝန်းကျင်ထိန်းသိမ်းရေးဆိုင်ရာကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-forms-two-more-committees/
+,Amyotha Hluttaw Women and Children's Rights Committee,အမျိုးသားလွှတ်တော် အမျိုးသမီးနှင့်ကလေးသူငယ်အခွင့်အရေးဆိုင်ရာကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-approves-forms-parliamentary-committees/
+,Amyotha Hluttaw Hluttaw Rights Committee,အမျိုးသားလွှတ်တော် လွှတ်တော်အခွင့်အရေးကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-pyithu-hluttaw-form-parliamentary-committees/
+,Amyotha Hluttaw Bill Committee,အမျိုးသားလွှတ်တော် ဥပဒေကြမ်းကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-pyithu-hluttaw-form-parliamentary-committees/
+,Amyotha Hluttaw Public Accounts Committee,အမျိုးသားလွှတ်တော် ပြည်သူ့ငွေစာရင်းကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-pyithu-hluttaw-form-parliamentary-committees/
+,"Amyotha Hluttaw Government’s Guarantees, Pledges and Undertakings Vetting Committee",အမျိုးသားလွှတ်တော် အစိုးရ၏ အာမခံချက်များ၊ ကတိများနှင့် တာဝန်ခံချက်များ စိစစ်ရေးကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-pyithu-hluttaw-form-parliamentary-committees/
+,"Amyotha Hluttaw Citizens' Fundamental Rights, the Democracy and Human Rights Committee",အမျိုးသားလွှတ်တော် နိုင်ငံသားများ၏ မူလအခွင့်အရေး၊ ဒီမိုကရေစီအရေးနှင့်လူအခွင့်အရေးကော်မတီ,Amyotha Hluttaw,အမျိုးသားလွှတ်တော် ,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-approves-forms-parliamentary-committees/
+,Pyithu Hluttaw Banks and Monetary Affairs Development Committee,ပြည်သူ့လွှတ်တော် ဘဏ်များနှင့်ငွေကြေးဆိုင်ရာ ဖွံ့ဖြိုးတိုးတက်ရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/pyithu-hluttaw-forms-three-committees/
+,Pyithu Hluttaw Economic and Financial Development Committee,ပြည်သူ့လွှတ်တော် စီးပွားရေးနှင့်ဘဏ္ဍာရေးဖွံ့ဖြိုးတိုးတက်ရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyithu Hluttaw Ethinic Affairs and Internal Peace Committee,ပြည်သူ့လွှတ်တော် တိုင်းရင်းသားရေးရာနှင့် ပြည်တွင်းငြိမ်းချမ်းရေးဖော်ဆောင်မှုကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,"Pyithu Hluttaw Peasantry, Labour and Youth Committee",ပြည်သူ့လွှတ်တော်တောင်သူသမားနှင့် အလုပ်သမားရေးရာကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyithu Hluttaw Investment and Industrial Development Committee,ပြည်သူ့လွှတ်တော် ရင်းနှီးမြှပ်နှံမှုနှင့် စက်မှုလက်မှုဖွံ့ဖြိုးတိုးတက်ရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyithu Hluttaw Public Management Committee,ပြည်သူ့လွှတ်တော် ပြည်သူ့ရေးရာစီမံခန့်ခွဲမှုကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyithu Hluttaw Public Accounts Committee,ပြည်သူ့လွှတ်တော် ပြည်သူ့ငွေစာရင်းကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,"Pyithu Hluttaw Mineral, Natural Resources and Environmental Conservation Committee",ပြည်သူ့လွှတ်တော် သယံဇာတနှင့် သဘာဝပတ်ဝန်းကျင်ထိန်းသိမ်းရေးဆိုင်ရာကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,"Pyithu Hluttaw Transportation, Communications and Construction Committee",ပြည်သူ့လွှတ်တော် ပို့ဆောင်ရေး၊ ဆက်သွယ်ရေးနှင့် ဆောက်လုပ်ရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyithu Hluttaw Education Promotion Committee,ပြည်သူ့လွှတ်တော် ပညာရေးမြှင့်တင်မှုကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/pyithu-hluttaw-forms-three-committees/
+,Pyithu Hluttaw Citizens' Fundamental Rights Committee,ပြည်သူ့လွှတ်တော် နိုင်ငံသားများ၏ မူလအခွင့်အရေးဆိုင်ရာကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,"Pyithu Hluttaw Agriculture, Livestock Breeding and Fishery Development Committee",ပြည်သူ့လွှတ်တော် စိုက်ပျိုးရေး၊ မွေးမြူရေးနှင့် ကျေးလက်လူမှုဘဝဖွံ့ဖြိုးတိုးတက်ရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/pyithu-hluttaw-forms-three-committees/
+,Pyithu Hluttaw Electric Power and Development Committee,ပြည်သူ့လွှတ်တော် လှျပ်စစ်စွမ်းအင်နှင့် ဖွံ့ဖြိုးတိုးတက်ရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyithu Hluttaw Health and Sports Promotion Committee,ပြည်သူ့လွှတ်တော် ကျန်းမာရေးနှင့် အားကစားဖွံ့ဖြိုးတိုးတက်ရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyithu Hluttaw International Relations Committee,ပြည်သူ့လွှတ်တော် နိုင်ငံတကာဆက်ဆံရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,"Pyithu Hluttaw Government’s Guarantees, Pledges and Undertakings Vetting Committee",ပြည်သူ့လွှတ်တော် အစိုးရ၏ အာမခံချက်များ၊ ကတိများနှင့် တာဝန်ခံချက်များ စိစစ်ရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-pyithu-hluttaw-form-parliamentary-committees/
+,Pyithu Hluttaw Bill Committee,ပြည်သူ့လွှတ်တော် ဥပဒေကြမ်းကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,http://globalnewlightofmyanmar.com/amyotha-hluttaw-pyithu-hluttaw-form-parliamentary-committees/
+,Pyithu Hluttaw Public Accounts Committee,ပြည်သူ့လွှတ်တော် ပြည်သူ့ငွေစာရင်းကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,Pyithu Hluttaw Hluttaw Rights Committee,ပြည်သူ့လွှတ်တော် လွှတ်တော်အခွင့်အရေးကော်မတီ,Pyithu Hluttaw,ပြည်သူ့လွှတ်တော်,Committee,ကော်မတီ,,,,,,,
+,,,,,,,,,,,,,
+fd24165b8e814a758cd1098dc7a9038a,National League for Democracy,အမျိုးသားဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,,,Party,ပါတီ,,,,,,,
+9462adf5cffa41c386e621fee28c59eb,Union Solidarity and Development Party,ပြည်ထောင်စုကြံ့ခိုင်ရေးနှင့်ဖွံ့ဖြိုးရေးပါတီ,,,Party,ပါတီ,,,,,,,
+7997379fe27c4e448af522c85e306bfb,"""Wa"" Democratic Party",'ဝ''ဒီမိုကရက်တစ်ပါတီ,,,Party,ပါတီ,,,,,,,
+90e4903937bf4b8ba9185157dde06345,Kokang Democracy and Unity Party,ကိုးကန့်ဒီမိုကရေစီနှင့်ညီညွတ်ရေးပါတီ,,,Party,ပါတီ,,,,,,,
+2d2c795149c74b6f91cdea8caf28e968,Zomi Congress for Democracy,ဇိုမီးဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,,,Party,ပါတီ,,,,,,,
+b366273152a84d579c4e19b14d36c0b5,Ta'Arng Palaung National Party,တအာင်း(ပလောင်)အမျိုးသားပါတီ,,,Party,ပါတီ,,,,,,,
+f2189158953e4d9e9296efeeffe7cf35,National Unity Party,တိုင်းရင်းသားစည်းလုံးညီညွတ်ရေးပါတီ,,,Party,ပါတီ,,,,,,,
+d53d27fef3ac4b2bb4b7bf346215f626,Pao National Organization,ပအိုဝ်းအမျိုးသားအဖွဲ့ချုပ်(PNO)ပါတီ,,,Party,ပါတီ,,,,,,,
+2f0c09d5eb05432d8fcf247b5cb1885f,Mon National Party,မွန်အမျိုးသားပါတီ,,,Party,ပါတီ,,,,,,,
+dc69205c7eb54a7aaf68b3d2e3d9c23e,Rakhine National Party,ရခိုင်အမျိုးသားပါတီ,,,Party,ပါတီ,,,,,,,
+e67bf2cdb4ff4ce89167cba3a514a6df,Shan Nationalities League for Democracy,ရှမ်းတိုင်းရင်းသားများဒီမိုကရေစီအဖွဲ့ချုပ်ပါတီ,,,Party,ပါတီ,,,,,,,
+a7a1ac9d2f20470d87e556af41dfaa19,Lisu National Development Party,လီဆူအမျိုးသားဖွံ့ဖြိုးတိုးတက်ရေးပါတီ(ဒူးလေးပါတီ),,,Party,ပါတီ,,,,,,,
+8cc2d69bed8743bbaa229b164afecf9a,Independent,တသီးပုဂ္ဂလ,,,Party,ပါတီ,,,,,,,
+016a8ad7b40343ba96e0c03f47019680,Arakan National Party,ရခိုင်အမျိုးသားပါတီ,,,Party,ပါတီ,,,,,,,
+6e76561e385946e0a3761d4f25293912,The Taaung (Palaung) National Party,တအောင်း (ပလောင်)အမျိုးသားပါတီ,,,Party,ပါတီ,,,,,,,
+63ec5681df974c67b7a217873fa9cdf5,Kachin Democratic Party,ကချင်ဒီမိုကရက်တစ်ပါတီ,,,Party,ပါတီ,,,,,,,
