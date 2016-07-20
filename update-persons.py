@@ -62,6 +62,9 @@ def update_en():
             r = requests.put(url, headers=headers, json=payload)
             print r.content
 
+        else:
+            print "Missing hluttaw_id match: " + hluttaw_id
+
 #Update Myanmar translations
 def update_my():
 
@@ -73,28 +76,30 @@ def update_my():
     MPs = df.to_dict(orient='records')
 
     for mp in MPs:
-        hluttaw_id = mp['identifier_hluttaw']
+        hluttaw_id = mp['identifier__hluttaw']
 
         popit_id = utils.hluttaw_to_popitid(hluttaw_id, base_url)
+
+        print hluttaw_id
+        print popit_id
         
         if popit_id:
             url = base_url + "/" + lang + "/persons/" + popit_id
 
             honorific_prefix = mp['honorific_prefix']
-	    #not used
             name = mp['name']
             gender = mp['gender']
             national_identity = mp['national_identity']
 
             payload = { 
-                        #'honorific_prefix': honorific_prefix,
+                        'honorific_prefix': honorific_prefix,
                         'name': name,
                         'gender': gender,
                         'national_identity': national_identity,
                         }
 
-            #r = requests.put(url, headers=headers, json=payload)
-            #print r.content
+            r = requests.put(url, headers=headers, json=payload)
+            print r.content
 
 def clean_duplicate_sms():
     #Getting total number of pages via REST request
@@ -117,5 +122,5 @@ def clean_duplicate_sms():
 		#print r.content
 
     
-#update_en()
-#update_my()
+update_en()
+update_my()

@@ -29,7 +29,7 @@ def popitid_to_hulttaw(popit_id,base_url):
 def org_name_to_popitid(name,base_url):
     # Get PopitID matching organization name
 
-    search_url = base_url + '/' + 'en' + '/search/organizations?q="' +name + '"'
+    search_url = base_url + '/' + 'en' + '/search/organizations?q=name:"' +name + '"'
     search_req = requests.get(search_url)
     
     if search_req.json()['results']:
@@ -41,7 +41,6 @@ def post_to_popitid(post_label,base_url):
 
     search_url = base_url + '/' + 'en' + '/search/posts?q=' + post_label 
     search_req = requests.get(search_url)
-
     
     if search_req.json()['results']:
         return search_req.json()['results'][0]['id']
@@ -53,7 +52,7 @@ def search_post(post_label,base_url):
     #returns only if exact match
     #should loop through until exact match before returning None
 
-    search_url = base_url + '/' + 'en' + '/search/posts?q=' + post_label 
+    search_url = base_url + '/' + 'en' + '/search/posts?q=label:' + post_label 
     search_req = requests.get(search_url)
     
     if search_req.json()['results']:

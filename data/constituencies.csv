@@ -1,0 +1,331 @@
+popit_id,Upper_House_Constituency_en,Township_en,Upper_House_Constituency_mm,Township_mm,Lower_House_Constituency_en,Township_en,Lower_House_Constituency_mm,Township_mm
+,Ayeyawaddy-1,"Pathein, Ngapudaw",ကချင်-1,"ခေါင်လန်ဖူး, မချမ်းဘော, နောင်မွန်း, ပူတာအို, ဆွမ်ပရာဘွမ်",Kangyidaunt,Kangyidaunt,ချီဖွေမဲဆန္ဒနယ်,ချီဖွေမြို့နယ်
+,Ayeyawaddy-10,"Pyapon, Dedaye",ကချင်-10,ဗန်းမော်,Kyaiklat,Kyaiklat,ခေါင်လန်ဖူးမဲဆန္ဒနယ်,ခေါင်လန်ဖူးမြို့နယ်
+,Ayeyawaddy-11,"Bogale, Kyaiklat",ကချင်-11,မိုးမောက်,Kyonpyaw,Kyonpyaw,ဆွမ်ပရာဘွမ်မဲဆန္ဒနယ်,ဆွမ်ပရာဘွမ်မြို့နယ်
+,Ayeyawaddy-12,"Labutta, Mawlamyinegyun",ကချင်-12,"မံစီ, ရွှေကူ",Kyaunggon,Kyaunggon,ဆော့လော်မဲဆန္ဒနယ်,ဆော့လော်မြို့နယ်
+,Ayeyawaddy-2,"Kangyidaunk, Thabaung, Kyaunggon",ကချင်-2,မြစ်ကြီးနား,Kyangin,Kyangin,တနိုင်းမဲဆန္ဒနယ်,တနိုင်းမြို့နယ်
+,Ayeyawaddy-3,"Kyonpyaw, Yekyi",ကချင်-3,ဝိုင်းမော်,Ngapudaw,Ngapudaw,နောင်မွန်းမဲဆန္ဒနယ်,နောင်မွန်းမြို့နယ်
+,Ayeyawaddy-4,"Hinthada, Zalun, Lemyethna",ကချင်-4,တနိုင်း,Zalun,Zalun,ပူတာအိုမဲဆန္ဒနယ်,ပူတာအိုမြို့နယ်
+,Ayeyawaddy-5,"Ingapu, Myanaung, Kyangin",ကချင်-5,"ချီဖွေ, ဆော့လော်, အင်ဂျန်းယန်",Nyaungdon,Nyaungdon,ဖားကန့်မဲဆန္ဒနယ်,ဖားကန့်မြို့နယ်
+,Ayeyawaddy-6,Myaungmya,ကချင်-6,မိုးညှင်း,Dedaye,Dedaye,ဗန်းမော်မဲဆန္ဒနယ်,ဗန်းမော်မြို့နယ်
+,Ayeyawaddy-7,"Wakema, Einme",ကချင်-7,မိုးညှင်း,Danubyu,Danubyu,မချမ်းဘောမဲဆန္ဒနယ်,မချမ်းဘောမြို့နယ်
+,Ayeyawaddy-8,"Ma-ubin, Nyaungdon",ကချင်-8,မိုးကောင်း,Pantanaw,Pantanaw,မံစီမဲဆန္ဒနယ်,မံစီမြို့နယ်
+,Ayeyawaddy-9,"Pantanaw, Danuphyu",ကချင်-9,ဖားကန့်,Pathein,Pathein,မြစ်ကြီးနားမဲဆန္ဒနယ်,မြစ်ကြီးနားမြို့နယ်
+,Bago-1,Bago,ကယား-1,လွိုင်ကော်,Pyapon,Pyapon,မိုးကောင်းမဲဆန္ဒနယ်,မိုးကောင်းမြို့နယ်
+,Bago-10,"Tharrawaddy, Letpadan",ကယား-10,ဖားဆောင်း,Bogale,Bogale,မိုးညှင်းမဲဆန္ဒနယ်,မိုးညှင်းမြို့နယ်
+,Bago-11,"Minhla, Okpho, Monyo",ကယား-11,​ဖားဆောင်း,Myanaung,Myanaung,မိုးမောက်မဲဆန္ဒနယ်,မိုးမောက်မြို့နယ်
+,Bago-12,"Zigon, Nattalin, Gyobingauk",ကယား-12,မယ်စဲ,Myaungmya,Myaungmya,ရွှေကူမဲဆန္ဒနယ်,ရွှေကူမြို့နယ်
+,Bago-2,"Thanatpin, Kawa",ကယား-2,လွိုင်ကော်,Maubin,Maubin,ဝိုင်းမော်မဲဆန္ဒနယ်,ဝိုင်းမော်မြို့နယ်
+,Bago-3,"Waw, Daik-U, Shwegyin",ကယား-3,ဒီးမော့ဆို,Mawlamyinegyun,Mawlamyinegyun,အင်ဂျန်းယန်မဲဆန္ဒနယ်,အင်ဂျန်းယန်မြို့နယ်
+,Bago-4,"Nyaunglebin, Kyauktaga",ကယား-4,ဒီးမော့ဆို,Yegyi,Yegyi,ဒီးမော့ဆိုမဲဆန္ဒနယ်,ဒီးမော့ဆိုမြို့နယ်
+,Bago-5,"Taungoo, Yedashe",ကယား-5,ဖရူဆို,Labutta,Labutta,ဖရူဆိုမဲဆန္ဒနယ်,ဖရူဆိုမြို့နယ်
+,Bago-6,"Oktwin, Tantabin",ကယား-6,ဖရူဆို,Lemyethna,Lemyethna,ဖာဆောင်းမဲဆန္ဒနယ်,ဖာဆောင်းမြို့နယ်
+,Bago-7,"Kyaukkyi, Pyu",ကယား-7,ရှားတော,Wakema,Wakema,ဘောလခဲမဲဆန္ဒနယ်,ဘောလခဲမြို့နယ်
+,Bago-8,"Pyay, Paukkaung, Padaung",ကယား-8,ဘောလခဲ,Thabaung,Thabaung,မယ်စဲမဲဆန္ဒနယ်,မယ်စဲမြို့နယ်
+,Bago-9,"Paungde, Thegon, Shwedaung",ကယား-9,ဘောလခဲ,Hinthada,Hinthada,ရှားတောမဲဆန္ဒနယ်,ရှားတောမြို့နယ်
+,Chin-1,Hakha,ကရင်-1,ဘားအံ,Ingapu,Ingapu,လွိုင်ကော်မဲဆန္ဒနယ်,လွိုင်ကော်မြို့နယ်
+,Chin-10,Matupi,ကရင်-10,ကော့ကရိတ်,Einme,Einme,ကြာအင်းဆိပ်ကြီးမဲဆန္ဒနယ်,ကြာအင်းဆိပ်ကြီးမြို့နယ်
+,Chin-11,Paletwa,ကရင်-11,ကြာအင်းဆိပ်ကြီး,Kyaukkyi,Kyaukkyi,ကော့ကရိတ်မဲဆန္ဒနယ်,ကော့ကရိတ်မြို့နယ်
+,Chin-12,Paletwa,ကရင်-12,ကြာအင်းဆိပ်ကြီး,Kyauktaga,Kyauktaga,ဖာပွန်မဲဆန္ဒနယ်,ဖာပွန်မြို့နယ်
+,Chin-2,Hakha,ကရင်-2,ဘားအံ,Gyobingauk,Gyobingauk,ဘားအံမဲဆန္ဒနယ်,ဘားအံမြို့နယ်
+,Chin-3,Htantlang,ကရင်-3,လှိုင်းဘွဲ့,Kawa,Kawa,မြဝတီမဲဆန္ဒနယ်,မြဝတီမြို့နယ်
+,Chin-4,Falam,ကရင်-4,လှိုင်းဘွဲ့,Zigon,Zigon,လှိုင်းဘွဲ့မဲဆန္ဒနယ်,လှိုင်းဘွဲ့မြို့နယ်
+,Chin-5,Tiddim,ကရင်-5,ဖာပွန်,Nyaunglebin,Nyaunglebin,သံတောင်ကြီးမဲဆန္ဒနယ်,သံတောင်ကြီးမြို့နယ်
+,Chin-6,Tiddim,ကရင်-6,ဖာပွန်,Taungoo,Taungoo,ကန်ပက်လက်မဲဆန္ဒနယ်,ကန်ပက်လက်မြို့နယ်
+,Chin-7,Ton Zang,ကရင်-7,သံတောင်ကြီး,Htantabin,Htantabin,တွန်းဇံမဲဆန္ဒနယ်,တွန်းဇံမြို့နယ်
+,Chin-8,Mindat,ကရင်-8,မြဝတီ,Daik-U,Daik-U,တီးတိန်မဲဆန္ဒနယ်,တီးတိန်မြို့နယ်
+,Chin-9,Kanpetlet,ကရင်-9,ကော့ကရိတ်,Nattalin,Nattalin,ထန်တလန်မဲဆန္ဒနယ်,ထန်တလန်မြို့နယ်
+,Kachin-1,"Kawnglanghpu, Machanbaw, Nogmung, Putao, Sumprabum",ချင်း-1,ဟားခါး,Padaung,Padaung,ပလက်ဝမဲဆန္ဒနယ်,ပလက်ဝမြို့နယ်
+,Kachin-10,Bhamo,ချင်း-10,မတူပီ,Pyay,Pyay,ဖလမ်းမဲဆန္ဒနယ်,ဖလမ်းမြို့နယ်
+,Kachin-11,Momauk,ချင်း-11,ပလက်ဝ,Paukkhaung,Paukkhaung,မင်းတပ်မဲဆန္ဒနယ်,မင်းတပ်မြို့နယ်
+,Kachin-12,"Mansi, Shwegu",ချင်း-12,ပလက်ဝ,Paungde,Paungde,မတူပီမဲဆန္ဒနယ်,မတူပီမြို့နယ်
+,Kachin-2,Myitkyina,ချင်း-2,ဟားခါး,Bago,Bago,ဟားခါးမဲဆန္ဒနယ်,ဟားခါးမြို့နယ်
+,Kachin-3,Waingmaw,ချင်း-3,ထန်တလန်,Phyu,Phyu,ကနီမဲဆန္ဒနယ်,ကနီမြို့နယ်
+,Kachin-4,Tanai,ချင်း-4,ဖလမ်း,Minhla,Minhla,ကန့်ဘလူမဲဆန္ဒနယ်,ကန့်ဘလူမြို့နယ်
+,Kachin-5,"Chipwi, Hsawlaw, Injangyang",ချင်း-5,တီးတိန်,Monyo,Monyo,ကျွန်းလှမဲဆန္ဒနယ်,ကျွန်းလှမြို့နယ်
+,Kachin-6,Mohnyin,ချင်း-6,တီးတိန်,Shwegyin,Shwegyin,ကလေးမဲဆန္ဒနယ်,ကလေးမြို့နယ်
+,Kachin-7,Mohnyin,ချင်း-7,တွန်းဇံ,Shwedaung,Shwedaung,ကလေးဝမဲဆန္ဒနယ်,ကလေးဝမြို့နယ်
+,Kachin-8,Mogaung,ချင်း-8,မင်းတပ်,Yedashe,Yedashe,ကသာမဲဆန္ဒနယ်,ကသာမြို့နယ်
+,Kachin-9,Hpakant,ချင်း-9,ကန်ပက်လက်,Letpadan,Letpadan,ကောလင်းမဲဆန္ဒနယ်,ကောလင်းမြို့နယ်
+,Kayah-1,Loikaw,စစ်ကိုင်း-1,"မြောင်, မြင်းမူ, စစ်ကိုင်း",Waw,Waw,ခင်ဦးမဲဆန္ဒနယ်,ခင်ဦးမြို့နယ်
+,Kayah-10,Hpasawng,စစ်ကိုင်း-10,"မော်လိုက်, ဖောင်းပြင်",Thanatpin,Thanatpin,ခန္တီးမဲဆန္ဒနယ်,ခန္တီးမြို့နယ်
+,Kayah-11,Hpasawng,စစ်ကိုင်း-11,"ခန္တီး, ဟုမ္မလင်း",Thayarwady,Thayarwady,ချောင်းဦးမဲဆန္ဒနယ်,ချောင်းဦးမြို့နယ်
+,Kayah-12,Mese,စစ်ကိုင်း-12,"လေရှီး, လဟယ်, နန်းယွန်း",Thegon,Thegon,စစ်ကိုင်းမဲဆန္ဒနယ်,စစ်ကိုင်းမြို့နယ်
+,Kayah-2,Loikaw,စစ်ကိုင်း-2,"ရွှေဘို, ဝက်လက်, ဒီပဲယင်း, ခင်ဦး",Oktwin,Oktwin,ဆားလင်းကြီးမဲဆန္ဒနယ်,ဆားလင်းကြီးမြို့နယ်
+,Kayah-3,Demoso,စစ်ကိုင်း-3,"ကန့်ဘလူ, ကျွန်းလှ, ရေဦး, တန့်ဆည်",Okpho,Okpho,တန့်ဆည်မဲဆန္ဒနယ်,တန့်ဆည်မြို့နယ်
+,Kayah-4,Demoso,စစ်ကိုင်း-4,"အရာတော်, ဘုတလင်, ချောင်းဦး, မုံရွာ",Kanpetlet,Kanpetlet,တမူးမဲဆန္ဒနယ်,တမူးမြို့နယ်
+,Kayah-5,Hpruso,စစ်ကိုင်း-5,"ကနီ, ပုလဲ, ဆားလင်းကြီး, ယင်းမာပင်",Tonzang,Tonzang,ထီးချိုင့်မဲဆန္ဒနယ်,ထီးချိုင့်မြို့နယ်
+,Kayah-6,Hpruso,စစ်ကိုင်း-6,"ကသာ, ထီးချိုင့်, အင်းတော်",Tedim,Tedim,ဒီပဲယင်းမဲဆန္ဒနယ်,ဒီပဲယင်းမြို့နယ်
+,Kayah-7,Shadaw,စစ်ကိုင်း-7,"ဗန်းမောက်, ကောလင်း, ဝန်းသို, ပင်လည်ဘူး",Thantlang,Thantlang,နန်းယွန်းမဲဆန္ဒနယ်,နန်းယွန်းမြို့နယ်
+,Kayah-8,Bawlakhe,စစ်ကိုင်း-8,"ကလေး, ကလေးဝ, မင်းကင်း",Paletwa,Paletwa,ပင်လည်ဘူးမဲဆန္ဒနယ်,ပင်လည်ဘူးမြို့နယ်
+,Kayah-9,Bawlakhe,စစ်ကိုင်း-9,တမူး,Falam,Falam,ပုလဲမဲဆန္ဒနယ်,ပုလဲမြို့နယ်
+,Kayin-1,Hpa-an,တနင်္သာရီ-1,ထားဝယ်,Mindat,Mindat,ဖောင်းပြင်မဲဆန္ဒနယ်,ဖောင်းပြင်မြို့နယ်
+,Kayin-10,Kawkareik,တနင်္သာရီ-10,တနင်္သာရီ,Matupi,Matupi,ဗန်းမောက်မဲဆန္ဒနယ်,ဗန်းမောက်မြို့နယ်
+,Kayin-11,Kyain Seikgyi,တနင်္သာရီ-11,ကော့သောင်း,Hakha,Hakha,ဘုတလင်မဲဆန္ဒနယ်,ဘုတလင်မြို့နယ်
+,Kayin-12,Kyain Seikgyi,တနင်္သာရီ-12,ဘုတ်ပြင်း,Chipwi,Chipwi,မင်းကင်းမဲဆန္ဒနယ်,မင်းကင်းမြို့နယ်
+,Kayin-2,Hpa-an,တနင်္သာရီ-2,လောင်းလုံး,Khaunglanhpu,Khaunglanhpu,မြင်းမူမဲဆန္ဒနယ်,မြင်းမူမြို့နယ်
+,Kayin-3,Hlaignbwe,တနင်္သာရီ-3,သရက်ချောင်း,Sumprabum,Sumprabum,မြောင်မဲဆန္ဒနယ်,မြောင်မြို့နယ်
+,Kayin-4,Hlaignbwe,တနင်္သာရီ-4,ရေဖြူ,Tsawlaw,Tsawlaw,မုံရွာမဲဆန္ဒနယ်,မုံရွာမြို့နယ်
+,Kayin-5,Hpapun,တနင်္သာရီ-5,မြိတ်,Tanai,Tanai,မော်လိုက်မဲဆန္ဒနယ်,မော်လိုက်မြို့နယ်
+,Kayin-6,Hpapun,တနင်္သာရီ-6,မြိတ်,Nawngmun,Nawngmun,ယင်းမာပင်မဲဆန္ဒနယ်,ယင်းမာပင်မြို့နယ်
+,Kayin-7,Thandaunggyi,တနင်္သာရီ-7,ကျွန်းစု,Puta-O,Puta-O,ရွှေဘိုမဲဆန္ဒနယ်,ရွှေဘိုမြို့နယ်
+,Kayin-8,Myawaddy,တနင်္သာရီ-8,ကျွန်းစု,Hpakant,Hpakant,ရေဦးမဲဆန္ဒနယ်,ရေဦးမြို့နယ်
+,Kayin-9,Kawkareik,တနင်္သာရီ-9,ပုလော,Bhamo,Bhamo,လဟယ်မဲဆန္ဒနယ်,လဟယ်မြို့နယ်
+,Magway-1,Magway,ပဲခူး-1,ပဲခူး,Man Si,Man Si,လေရှီးမဲဆန္ဒနယ်,လေရှီးမြို့နယ်
+,Magway-10,Yesagyo,ပဲခူး-10,"သာယာဝတီ, လက်ပံတန်း",Machanbaw,Machanbaw,ဝက်လက်မဲဆန္ဒနယ်,ဝက်လက်မြို့နယ်
+,Magway-11,"Myaing, Pauk",ပဲခူး-11,"မင်းလှ, အုတ်ဖို, မိုးညို",Myitkyina,Myitkyina,ဝန်းသိုမဲဆန္ဒနယ်,ဝန်းသိုမြို့နယ်
+,Magway-12,"Gangaw, Saw, Tilin",ပဲခူး-12,"ဇီးကုန်း, နတ်တလင်း, ကြို့ပင်ကောက်",Mogaung,Mogaung,ဟုမ္မလင်းမဲဆန္ဒနယ်,ဟုမ္မလင်းမြို့နယ်
+,Magway-2,"Yenangyaung, Chauck",ပဲခူး-2,"သနပ်ပင်, ကဝ",Mohnyin,Mohnyin,အင်းတော်မဲဆန္ဒနယ်,အင်းတော်မြို့နယ်
+,Magway-3,"Natmauk, Myothit",ပဲခူး-3,"ဝေါ, ဒိုက်ဦး, ရွှေကျင်",Momauk,Momauk,အရာတော်မဲဆန္ဒနယ်,အရာတော်မြို့နယ်
+,Magway-4,Taungdwingyi,ပဲခူး-4,"ညောင်လေးပင်, ကျောက်တံခါး",Shwegu,Shwegu,ကျွန်းစုမဲဆန္ဒနယ်,ကျွန်းစုမြို့နယ်
+,Magway-5,"Minbu, Pwintbyu",ပဲခူး-5,"တောင်ငူ, ရေတာရှည်",Waingmaw,Waingmaw,ကော့သောင်းမဲဆန္ဒနယ်,ကော့သောင်းမြို့နယ်
+,Magway-6,"Salin, Sidoktaya, Ngape",ပဲခူး-6,"အုတ်တွင်း, ထန်းတပင်",Injangyang,Injangyang,တနင်္သာရီမဲဆန္ဒနယ်,တနင်္သာရီမြို့နယ်
+,Magway-7,"Thayet, Kamma, Mindon, Minhla",ပဲခူး-7,"ကျောက်ကြီး, ဖြူး",Demoso,Demoso,ထားဝယ်မဲဆန္ဒနယ်,ထားဝယ်မြို့နယ်
+,Magway-8,"Aunglan, Sinbaungwe",ပဲခူး-8,"ပြည်, ပေါက်ခေါင်း, ပန်းတောင်း",Hpruso,Hpruso,ပုလောမဲဆန္ဒနယ်,ပုလောမြို့နယ်
+,Magway-9,"Pakokku, Seikphyu",ပဲခူး-9,"ပေါင်းတည်, သဲကုန်း, ရွှေတောင်",Hpasawng,Hpasawng,ဘုတ်ပြင်းမဲဆန္ဒနယ်,ဘုတ်ပြင်းမြို့နယ်
+,Mandalay-1,"Aungmyethazan, Chanayethazan, Patheingyi",မကွေး-1,မကွေး,Bawlake,Bawlake,မြိတ်မြို့မဲဆန္ဒနယ်,မြိတ်မြို့မြို့နယ်
+,Mandalay-10,"Dekkhinathiri, Zabuthiri, Lewe, Pyinmana",မကွေး-10,ရေစကြို,Mese,Mese,ရေဖြူမဲဆန္ဒနယ်,ရေဖြူမြို့နယ်
+,Mandalay-11,"Meiktila, Mahlaing",မကွေး-11,"မြိုင်, ပေါက်",Shadaw,Shadaw,လောင်းလုံးမဲဆန္ဒနယ်,လောင်းလုံးမြို့နယ်
+,Mandalay-12,"Thazi, Wundwin",မကွေး-12,"ဂန့်ဂေါ, ဆော, ထီးလင်း",Loikaw,Loikaw,သရက်ချောင်းမဲဆန္ဒနယ်,သရက်ချောင်းမြို့နယ်
+,Mandalay-2,"Chanmyathazi, Pyigyidagun, Mahaaungmye, Amarapura",မကွေး-2,"ရေနံချောင်း, ချောက်",Kyainseikgyi,Kyainseikgyi,ဇမ္ဗူသီရိမဲဆန္ဒနယ်,ဇမ္ဗူသီရိမြို့နယ်
+,Mandalay-3,"Madaya, Mogok, Pyinoolwin, Singu, Thabeikkyin",မကွေး-3,"နတ်မောက်, မြို့သစ်",Kawkareik,Kawkareik,ဇေယျာသီရိမဲဆန္ဒနယ်,ဇေယျာသီရိမြို့နယ်
+,Mandalay-4,"Kyaukse, Myittha, Sintgaing, Tada-U ",မကွေး-4,တောင်တွင်းကြီး,Hpapun,Hpapun,တပ်ကုန်းမဲဆန္ဒနယ်,တပ်ကုန်းမြို့နယ်
+,Mandalay-5,"Myingyan, Nganzun",မကွေး-5,"မင်းဘူး, ပွင့်ဖြူ",Hpa-An,Hpa-An,ဒက္ခိဏသီရိမဲဆန္ဒနယ်,ဒက္ခိဏသီရိမြို့နယ်
+,Mandalay-6,"Natogyi, Thaungtha",မကွေး-6,"စလင်း, စေတုတ္တရာ, ငဖဲ",Myawaddy,Myawaddy,ပျဥ်းမနားမဲဆန္ဒနယ်,ပျဥ်းမနားမြို့နယ်
+,Mandalay-7,"Nyaung-U, Kyaukpadaung",မကွေး-7,"သရက်, ကံမ, မင်းတုန်း, မင်းလှ",Hlaingbwe,Hlaingbwe,ပုဗ္ဗသီရိမဲဆန္ဒနယ်,ပုဗ္ဗသီရိမြို့နယ်
+,Mandalay-8,"Pyawbwe, Yamethin",မကွေး-8,"အောင်လံ, ဆင်ပေါင်ဝဲ",Thandaunggyi,Thandaunggyi,လယ်ဝေးမဲဆန္ဒနယ်,လယ်ဝေးမြို့နယ်
+,Mandalay-9,"Ottarathiri, Pobbathiri, Zeyarthiri, Tatkon",မကွေး-9,"ပခုက္ကူ, ဆိပ်ဖြူ",Kamma,Kamma,ဥတ္တရသီရိမဲဆန္ဒနယ်,ဥတ္တရသီရိမြို့နယ်
+,Mon-1,Mawlamyine,မန္တလေး-1,"အောင်မြေသာစံ, ချမ်းအေးသာစံ, ပုသိမ်ကြီး",Chauk,Chauk,ကျောက်ကြီးမဲဆန္ဒနယ်,ကျောက်ကြီးမြို့နယ်
+,Mon-10,Paung,မန္တလေး-10,"ဒက္ခိဏသီရိ, ဇဗ္ဗူသီရိ, လယ်ဝေး, ပျဉ်းမနား",Gangaw,Gangaw,ကျောက်တံခါးမဲဆန္ဒနယ်,ကျောက်တံခါးမြို့နယ်
+,Mon-11,Kyaikto,မန္တလေး-11,"မိတ္ထီလာ, မလှိုင်",Ngape,Ngape,ကြို့ပင်ကောက်မဲဆန္ဒနယ်,ကြို့ပင်ကောက်မြို့နယ်
+,Mon-12,Bilin,မန္တလေး-12,"သာစည်, ဝမ်းတွင်း",Salin,Salin,ကဝမဲဆန္ဒနယ်,ကဝမြို့နယ်
+,Mon-2,Mawlamyine,မန္တလေး-2,"ချမ်းမြသာစည်, ပြည်ကြီးတံခွန်, မဟာအောင်မြေ, အမရပူရ",Sidoktaya,Sidoktaya,ဇီးကုန်းမဲဆန္ဒနယ်,ဇီးကုန်းမြို့နယ်
+,Mon-3,Kyaikmaraw,မန္တလေး-3,"မတ္တရာ, မိုးကုတ်, ပြင်ဦးလွင်, စဉ့်ကူး, သပိတ်ကျင်း,",Sinbaungwe,Sinbaungwe,ညောင်လေးပင်မဲဆန္ဒနယ်,ညောင်လေးပင်မြို့နယ်
+,Mon-4,Chaungzon,မန္တလေး-4,"ကျောက်ဆည်, မြစ်သား, စဉ့်ကိုင်, တံတားဦး",Seikphyu,Seikphyu,တောင်ငူမဲဆန္ဒနယ်,တောင်ငူမြို့နယ်
+,Mon-5,Thanbyuzayat,မန္တလေး-5,"မြင်းခြံ, ငါန်းဇွန်",Saw,Saw,ထန်းတပင်မဲဆန္ဒနယ်,ထန်းတပင်မြို့နယ်
+,Mon-6,Mudon,မန္တလေး-6,"နွားထိုးကြီး, တောင်သာ",Taungdwingyi,Taungdwingyi,ဒိုက်ဦးမဲဆန္ဒနယ်,ဒိုက်ဦးမြို့နယ်
+,Mon-7,Ye,မန္တလေး-7,"ညောင်ဦး, ကျောက်ပန်းတောင်း",Tilin,Tilin,နတ်တလင်းမဲဆန္ဒနယ်,နတ်တလင်းမြို့နယ်
+,Mon-8,Ye,မန္တလေး-8,"ပျော်ဘွယ်, ရမည်းသင်း",Natmauk,Natmauk,ပန်းတောင်းမဲဆန္ဒနယ်,ပန်းတောင်းမြို့နယ်
+,Mon-9,Thaton,မန္တလေး-9,"ဥတ္တရသီရိ, ပုဗ္ဗသီရိ, ဇေယျာသီရိ, တပ်ကုန်း",Pakokku,Pakokku,ပြည်မဲဆန္ဒနယ်,ပြည်မြို့နယ်
+,Rakhine-1,Sittwe,မွန်-1,မော်လမြိုင်,Pwintbyu,Pwintbyu,ပေါက်ခေါင်းမဲဆန္ဒနယ်,ပေါက်ခေါင်းမြို့နယ်
+,Rakhine-10,"Kyaukpyu, Manaung",မွန်-10,ပေါင်,Pauk,Pauk,ပေါင်းတည်မဲဆန္ဒနယ်,ပေါင်းတည်မြို့နယ်
+,Rakhine-11,"Ramree, Ann",မွန်-11,ကျိုက်ထို,Magway,Magway,ပဲခူးမဲဆန္ဒနယ်,ပဲခူးမြို့နယ်
+,Rakhine-12,"Thandwe, Gaw, Toungup",မွန်-12,ဘီးလင်း,Mindon,Mindon,ဖြူးမဲဆန္ဒနယ်,ဖြူးမြို့နယ်
+,Rakhine-2,Pauktaw,မွန်-2,မော်လမြိုင်,Minbu,Minbu,မင်းလှမဲဆန္ဒနယ်,မင်းလှမြို့နယ်
+,Rakhine-3,"Rathedaung, Ponnagyun",မွန်-3,ကျိုက်မရော,Minhla,Minhla,မိုးညိုမဲဆန္ဒနယ်,မိုးညိုမြို့နယ်
+,Rakhine-4,Mrauk-U,မွန်-4,ချောင်းဆုံ,Myothit,Myothit,ရွှေကျင်မဲဆန္ဒနယ်,ရွှေကျင်မြို့နယ်
+,Rakhine-5,Kyauktaw,မွန်-5,သံဖြူဇရပ်,Myaing,Myaing,ရွှေတောင်မဲဆန္ဒနယ်,ရွှေတောင်မြို့နယ်
+,Rakhine-6,"Minbya, Myebon",မွန်-6,မုဒုံ,Yesagyo,Yesagyo,ရေတာရှည်မဲဆန္ဒနယ်,ရေတာရှည်မြို့နယ်
+,Rakhine-7,Maungdaw,မွန်-7,ရေး,Yenangyaung,Yenangyaung,လက်ပံတန်းမဲဆန္ဒနယ်,လက်ပံတန်းမြို့နယ်
+,Rakhine-8,Maungdaw,မွန်-8,ရေး,Thayetchaung,Thayetchaung,ဝေါမဲဆန္ဒနယ်,ဝေါမြို့နယ်
+,Rakhine-9,Buthidaung,မွန်-9,သထုံ,Aunglan,Aunglan,သနပ်ပင်မဲဆန္ဒနယ်,သနပ်ပင်မြို့နယ်
+,Sagaing-1,"Myaung, Myinmu, Sagaing",ရခိုင်-1,စစ်တွေ,Kyaukse,Kyaukse,သာယာဝတီမဲဆန္ဒနယ်,သာယာဝတီမြို့နယ်
+,Sagaing-10,"Mawlaik, Paungbyin",ရခိုင်-10,"ကျောက်ဖြူ, မာန်အောင်",Kyaukpadaung,Kyaukpadaung,သဲကုန်းမဲဆန္ဒနယ်,သဲကုန်းမြို့နယ်
+,Sagaing-11,"Hkamti, Homalin",ရခိုင်-11,"ရမ်းဗြဲ, အမ်း",Chanmyathazi,Chanmyathazi,အုတ်တွင်းမဲဆန္ဒနယ်,အုတ်တွင်းမြို့နယ်
+,Sagaing-12,"Leshi, Lahe, Nanyun",ရခိုင်-12,"သံတွဲ, ဂွ, တောင်ကုတ်,",Chanayethazan,Chanayethazan,အုတ်ဖိုမဲဆန္ဒနယ်,အုတ်ဖိုမြို့နယ်
+,Sagaing-2,"Shwebo, Wetlet, Tabayin, Khin-U",ရခိုင်-2,ပေါက်တော,Ngazun,Ngazun,ကံမမဲဆန္ဒနယ်,ကံမမြို့နယ်
+,Sagaing-3,"Kanbalu, Kyunhla, Ye-U, Taze",ရခိုင်-3,"ရသေ့တောင်, ပုဏ္ဏားကျွန်း",Sintgaing,Sintgaing,ချောက်မဲဆန္ဒနယ်,ချောက်မြို့နယ်
+,Sagaing-4,"Ayadaw, Budalin, Chaung-U, Monywa",ရခိုင်-4,မြောက်ဦး,Singu,Singu,ဂန့်ဂေါမဲဆန္ဒနယ်,ဂန့်ဂေါမြို့နယ်
+,Sagaing-5,"Kani, Pale, Salingyi, Yinmabin",ရခိုင်-5,ကျောက်တော်,Nyaung-U,Nyaung-U,ငဖဲမဲဆန္ဒနယ်,ငဖဲမြို့နယ်
+,Sagaing-6,"Katha, Tigyaing, Indaw",ရခိုင်-6,"မင်းပြား, မြေပုံ",Tada-U,Tada-U,စလင်းမဲဆန္ဒနယ်,စလင်းမြို့နယ်
+,Sagaing-7,"Banmauk, Kawlin, Wuntho, Pinlebu",ရခိုင်-7,မောင်တော,Taungtha,Taungtha,စေတုတ္တရာမဲဆန္ဒနယ်,စေတုတ္တရာမြို့နယ်
+,Sagaing-8,"Kale, Kalewa, Mingin",ရခိုင်-8,မောင်တော,Natogyi,Natogyi,ဆင်ပေါင်ဝဲမဲဆန္ဒနယ်,ဆင်ပေါင်ဝဲမြို့နယ်
+,Sagaing-9,Tamu,ရခိုင်-9,ဘူးသီးတောင်,Pyawbwe,Pyawbwe,ဆိပ်ဖြူမဲဆန္ဒနယ်,ဆိပ်ဖြူမြို့နယ်
+,Shan-1,"Taunggyi, Nyaungshwe, Lawksawk, Kalaw, Pekon",ရန်ကုန်-1,"ဒဂုံမြို့သစ်(မြောက်ပိုင်း), ဒဂုံမြို့သစ်(အရှေ့ပိုင်း), မြောက်ဥက္ကလာပ",Pyinoolwin,Pyinoolwin,ဆောမဲဆန္ဒနယ်,ဆောမြို့နယ်
+,Shan-10,"Namhsan, Mantong",ရန်ကုန်-10,"အင်းစိန်, မင်္ဂလာဒုံ",Pyigyitagon,Pyigyitagon,တောင်တွင်းကြီးမဲဆန္ဒနယ်,တောင်တွင်းကြီးမြို့နယ်
+,Shan-11,"Laukkaing, Konkyan",ရန်ကုန်-11,လှိုင်သာယာ,Patheingyi,Patheingyi,ထီးလင်းမဲဆန္ဒနယ်,ထီးလင်းမြို့နယ်
+,Shan-12,"Hopang, Mongmao, Pangwaun, Namphan (Naphang), Matman, Pangsang",ရန်ကုန်-12,"တိုက်ကြီး, လှည်းကူး",Madaya,Madaya,နတ်မောက်မဲဆန္ဒနယ်,နတ်မောက်မြို့နယ်
+,Shan-2,"Loilen, Lai-Hka, Nansang, Kunhing, Kyethi, Mong Kung, Mong Hsu, Langkho, Mong Nai, Mawkmai, Mong Pan",ရန်ကုန်-2,"ဒဂုံမြို့သစ်(တောင်ပိုင်း), ဒဂုံမြို့သစ်(ဆိပ်ကမ်း)",Myingyan,Myingyan,ပခုက္ကူမဲဆန္ဒနယ်,ပခုက္ကူမြို့နယ်
+,Shan-3,"Lashio, Hsenwi, Mongyai, Tangyan, Kunlong",ရန်ကုန်-3,"တောင်ဥက္ကလာပ, ရန်ကင်း, တာမွေ, သင်္ဃန်းကျွန်း",Myittha,Myittha,ပွင့်ဖြူမဲဆန္ဒနယ်,ပွင့်ဖြူမြို့နယ်
+,Shan-4,"Kyaukme, Hsipaw, Namtu, နောင်ချို, မိုးမိတ်, မဘိမ်း",ရန်ကုန်-4,"မင်္ဂလာတောင်ညွန့်, သာကေတ, ဒေါပုံ, ပုဇွန်တောင်, ဗိုလ်တထောင်",Mahlaing,Mahlaing,ပေါက်မဲဆန္ဒနယ်,ပေါက်မြို့နယ်
+,Shan-5,"Mu Se, Namhkam, Kutkai",ရန်ကုန်-5,"မရမ်းကုန်း, ဗဟန်း, ဒဂုံ, စမ်းချောင်း, ပန်းဘဲတန်း, ကျောက်တံတား",Mahaaungmyay,Mahaaungmyay,မကွေးမဲဆန္ဒနယ်,မကွေးမြို့နယ်
+,Shan-6,"Kengtung, Mong Khet, Mong Yang, Minelar",ရန်ကုန်-6,"ကမာရွတ်, လှိုင်, ကြည့်မြင်တိုင်, လသာ, လမ်းမတော်, အလုံ, ဆိပ်ကမ်း",Meiktila,Meiktila,မင်းတုန်းမဲဆန္ဒနယ်,မင်းတုန်းမြို့နယ်
+,Shan-7,"Tachileik, Mong Hsat, Mong Ping, Mong Tong, Mong Hpayak, Mong Yawng",ရန်ကုန်-7,"သန်လျင်, ကျောက်တန်း, ခရမ်း, သုံးခွ",Mogoke,Mogoke,မင်းဘူးမဲဆန္ဒနယ်,မင်းဘူးမြို့နယ်
+,Shan-8,"Ywangan, Pingdaya",ရန်ကုန်-8,"တွံတေး, ဒလ, ကော့မှူး, ဆိပ်ကြီး/ခနောင်တို, ကွမ်းခြံကုန်း, ကိုကိုးကျွန်း",Yamethin,Yamethin,မင်းလှမဲဆန္ဒနယ်,မင်းလှမြို့နယ်
+,Shan-9,"Hopong, Hsi Hseng, Pinlaung",ရန်ကုန်-9,"ထန်းတပင်, ရွှေပြည်သာ, မှော်ဘီ",Wundwin,Wundwin,မြိုင်မဲဆန္ဒနယ်,မြိုင်မြို့နယ်
+,Taninthayi-1,Dawei,ရှမ်း-1,"တောင်ကြီး, ညောင်ရွှေ, ရပ်စောက်, ကလော, ဖယ်ခုံ",Thabeikkyin,Thabeikkyin,မြို့သစ်မဲဆန္ဒနယ်,မြို့သစ်မြို့နယ်
+,Taninthayi-10,Tanintharyi,ရှမ်း-10,"နမ့်ဆန်, မန်တုံ",Thazi,Thazi,ရေစကြိုမဲဆန္ဒနယ်,ရေစကြိုမြို့နယ်
+,Taninthayi-11,Kawthoung,ရှမ်း-11,"လောက်ကိုင်, ကုန်းကြမ်း",Amarapura,Amarapura,ရေနံချောင်းမဲဆန္ဒနယ်,ရေနံချောင်းမြို့နယ်
+,Taninthayi-12,Bokpyin,ရှမ်း-12,"ဟိုပန်, မိုင်းမော, ပန်ဝိုင်, နားဖန်း, မက်မန်း, ပန်ဆန်း(ပန်ခမ်း)",Aungmyaythazan,Aungmyaythazan,သရက်မဲဆန္ဒနယ်,သရက်မြို့နယ်
+,Taninthayi-2,Launglon,ရှမ်း-2,"လွိုင်လင်, လဲချား, နမ့်စန်, ကွန်ဟိန်း, ကျေးသီး, မိုင်းကိုင်, မိုင်းရှုး, လင်းခေး, မိုးနဲ, မောက်မယ်, မိုင်းပန်",Kyaikto,Kyaikto,အောင်လံမဲဆန္ဒနယ်,အောင်လံမြို့နယ်
+,Taninthayi-3,Thayetchaung,ရှမ်း-3,"လားရှိုး, သိန္နီ, မိုင်းရယ်, တန့်ယန်း, ကွမ်းလုံ",Kyaikmaraw,Kyaikmaraw,ကျောက်ဆည်မဲဆန္ဒနယ်,ကျောက်ဆည်မြို့နယ်
+,Taninthayi-4,Yebyu,ရှမ်း-4,"ကျောက်မဲ, သီပေါ, နမ္မတူ, နောင်ချို, မိုးမိတ်, မဘိမ်း",Chaungzon,Chaungzon,ကျောက်ပန်းတောင်းမဲဆန္ဒနယ်,ကျောက်ပန်းတောင်းမြို့နယ်
+,Taninthayi-5,Myeik,ရှမ်း-5,"မူဆယ်, နမ့်ခမ်း, ကွတ်ခိုင်",Paung,Paung,ချမ်းမြသာစည်မဲဆန္ဒနယ်,ချမ်းမြသာစည်မြို့နယ်
+,Taninthayi-6,Myeik,ရှမ်း-6,"ကျိုင်းတုံ, မိုင်းခတ်, မိုင်းယန်း, မိုင်းလား",Bilin,Bilin,ချမ်းအေးသာစံမဲဆန္ဒနယ်,ချမ်းအေးသာစံမြို့နယ်
+,Taninthayi-7,Kyunsu,ရှမ်း-7,"တာချီလိတ်, မိုင်းဆတ်, မိုင်းပျဉ်း, မိုင်းတုံ, မိုင်းဖြတ်, မိုင်းယောင်း",Mudon,Mudon,ငါန်းဇွန်မဲဆန္ဒနယ်,ငါန်းဇွန်မြို့နယ်
+,Taninthayi-8,Kyunsu,ရှမ်း-8,"ရွာငံ, ပင်းတယ",Mawlamyine,Mawlamyine,စဥ့်ကိုင်မဲဆန္ဒနယ်,စဥ့်ကိုင်မြို့နယ်
+,Taninthayi-9,Palaw,ရှမ်း-9,"ဟိုပုံး, ဆီဆိုင်, ပင်လောင်း",Ye,Ye,စဥ့်ကူးမဲဆန္ဒနယ်,စဥ့်ကူးမြို့နယ်
+,Yangon-1,"North Dagon, East Dagon, North Okkalapa ",ဧရာဝတီ-1,"ပုသိမ်, ငပုတော",Thanbyuzayat,Thanbyuzayat,ညောင်ဦးမဲဆန္ဒနယ်,ညောင်ဦးမြို့နယ်
+,Yangon-10,"Insein, Mingaladon",ဧရာဝတီ-10,"ဖျာပုံ, ဒေးဒရဲ",Thaton,Thaton,တံတားဦးမဲဆန္ဒနယ်,တံတားဦးမြို့နယ်
+,Yangon-11,Hlaingthaya,ဧရာဝတီ-11,"ဘိုကလေး, ကျိုက်လတ်",Kyauktaw,Kyauktaw,တောင်သာမဲဆန္ဒနယ်,တောင်သာမြို့နယ်
+,Yangon-12,"Taikkyi, Hlegu",ဧရာဝတီ-12,"လပွတ္တာ, မော်လမြိုင်ကျွန်း",Kyaukpyu,Kyaukpyu,နွားထိုးကြီးမဲဆန္ဒနယ်,နွားထိုးကြီးမြို့နယ်
+,Yangon-2,"South Dagon, Dagon Seikkan",ဧရာဝတီ-2,"ကန်ကြီးထောင့်, သာပေါင်း, ကျောင်းကုန်း",Gwa,Gwa,ပျော်ဘွယ်မဲဆန္ဒနယ်,ပျော်ဘွယ်မြို့နယ်
+,Yangon-3,"South Okkalapa, Yankin, Tamwe, Thingangyun",ဧရာဝတီ-3,"ကျုံပျော်, ရေကြည်",Sittwe,Sittwe,ပြင်ဦးလွင်မဲဆန္ဒနယ်,ပြင်ဦးလွင်မြို့နယ်
+,Yangon-4,"Mingala Taungnyunt, Thaketa, Dawbon, Pazundaung, Botataung",ဧရာဝတီ-4,"ဟင်္သာတ, ဇလွန်, လေးမျက်နှာ",Toungup,Toungup,ပြည်ကြီးတံခွန်မဲဆန္ဒနယ်,ပြည်ကြီးတံခွန်မြို့နယ်
+,Yangon-5,"Mayangon, Bahan, Dagon, Sanchaung, Pabedan, Kyauktada",ဧရာဝတီ-5,"အင်္ဂပူ, မြန်အောင်, ကြံခင်း",Ponnagyun,Ponnagyun,ပုသိမ်ကြီးမဲဆန္ဒနယ်,ပုသိမ်ကြီးမြို့နယ်
+,Yangon-6,"Kamayut, Hlaing, Kyimyindaing, Latha, Lanmadaw, Ahlon, Seikkan",ဧရာဝတီ-6,မြောင်းမြ,Pauktaw,Pauktaw,မတ္တရာမဲဆန္ဒနယ်,မတ္တရာမြို့နယ်
+,Yangon-7,"Thanlyin, Kyauktan, Kayan, Thongwa",ဧရာဝတီ-7,"ဝါးခယ်မ, အိမ်မဲ",Buthidaung,Buthidaung,မြင်းခြံမဲဆန္ဒနယ်,မြင်းခြံမြို့နယ်
+,Yangon-8,"Twante, Dala, Kawhmu, Seikkyi Kanaungto, Kungyangon, Cocokyun",ဧရာဝတီ-8,"မအူပင်, ညောင်တုန်း",Minbya,Minbya,မြစ်သားမဲဆန္ဒနယ်,မြစ်သားမြို့နယ်
+,Yangon-9,"Htantabin, Shwepyitha, Hmawbi",ဧရာဝတီ-9,"ပန်းတနော်, ဓနုဖြူ",Myebon,Myebon,မလှိုင်မဲဆန္ဒနယ်,မလှိုင်မြို့နယ်
+,,,,,Mrauk-U,Mrauk-U,မဟာအောင်မြေမဲဆန္ဒနယ်,မဟာအောင်မြေမြို့နယ်
+,,,,,Munaung,Munaung,မိတ္ထီလာမဲဆန္ဒနယ်,မိတ္ထီလာမြို့နယ်
+,,,,,Maungdaw,Maungdaw,မိုးကုတ်မဲဆန္ဒနယ်,မိုးကုတ်မြို့နယ်
+,,,,,Ramree,Ramree,ရမည်းသင်းမဲဆန္ဒနယ်,ရမည်းသင်းမြို့နယ်
+,,,,,Rathedaung,Rathedaung,ဝမ်းတွင်းမဲဆန္ဒနယ်,ဝမ်းတွင်းမြို့နယ်
+,,,,,Thandwe,Thandwe,သပိတ်ကျင်းမဲဆန္ဒနယ်,သပိတ်ကျင်းမြို့နယ်
+,,,,,Ann,Ann,သာစည်မဲဆန္ဒနယ်,သာစည်မြို့နယ်
+,,,,,Kani,Kani,အမရပူရမဲဆန္ဒနယ်,အမရပူရမြို့နယ်
+,,,,,Kanbalu,Kanbalu,အောင်မြေသာစံမဲဆန္ဒနယ်,အောင်မြေသာစံမြို့နယ်
+,,,,,Kyunhla,Kyunhla,ကျိုက်ထိုမဲဆန္ဒနယ်,ကျိုက်ထိုမြို့နယ်
+,,,,,Kale,Kale,ကျိုက်မရောမဲဆန္ဒနယ်,ကျိုက်မရောမြို့နယ်
+,,,,,Kalewa,Kalewa,ချောင်းဆုံမဲဆန္ဒနယ်,ချောင်းဆုံမြို့နယ်
+,,,,,Katha,Katha,ပေါင်မဲဆန္ဒနယ်,ပေါင်မြို့နယ်
+,,,,,Kawlin,Kawlin,ဘီးလင်းမဲဆန္ဒနယ်,ဘီးလင်းမြို့နယ်
+,,,,,Khin-U,Khin-U,မုဒုံမဲဆန္ဒနယ်,မုဒုံမြို့နယ်
+,,,,,Hkamti,Hkamti,မော်လမြိုင်မဲဆန္ဒနယ်,မော်လမြိုင်မြို့နယ်
+,,,,,Chaung-U,Chaung-U,ရေးမဲဆန္ဒနယ်,ရေးမြို့နယ်
+,,,,,Sagaing,Sagaing,သထုံမဲဆန္ဒနယ်,သထုံမြို့နယ်
+,,,,,Salingyi,Salingyi,သံဖြူဇရပ်မဲဆန္ဒနယ်,သံဖြူဇရပ်မြို့နယ်
+,,,,,Taze,Taze,ကျောက်တော်မဲဆန္ဒနယ်,ကျောက်တော်မြို့နယ်
+,,,,,Tamu,Tamu,ကျောက်ဖြူမဲဆန္ဒနယ်,ကျောက်ဖြူမြို့နယ်
+,,,,,Tigyaing,Tigyaing,ဂွမဲဆန္ဒနယ်,ဂွမြို့နယ်
+,,,,,Tabayin,Tabayin,စစ်တွေမဲဆန္ဒနယ်,စစ်တွေမြို့နယ်
+,,,,,Nanyun,Nanyun,တောင်ကုတ်မဲဆန္ဒနယ်,တောင်ကုတ်မြို့နယ်
+,,,,,Pinlebu,Pinlebu,ပုဏ္ဏားကျွန်းမဲဆန္ဒနယ်,ပုဏ္ဏားကျွန်းမြို့နယ်
+,,,,,Pale,Pale,ပေါက်တောမဲဆန္ဒနယ်,ပေါက်တောမြို့နယ်
+,,,,,Paungbyin,Paungbyin,ဘူးသီးတောင်မဲဆန္ဒနယ်,ဘူးသီးတောင်မြို့နယ်
+,,,,,Banmauk,Banmauk,မင်းပြားမဲဆန္ဒနယ်,မင်းပြားမြို့နယ်
+,,,,,Budalin,Budalin,မြေပုံမဲဆန္ဒနယ်,မြေပုံမြို့နယ်
+,,,,,Mingin,Mingin,မြောက်ဦးမဲဆန္ဒနယ်,မြောက်ဦးမြို့နယ်
+,,,,,Myinmu,Myinmu,မာန်အောင်မဲဆန္ဒနယ်,မာန်အောင်မြို့နယ်
+,,,,,Myaung,Myaung,မောင်တောမဲဆန္ဒနယ်,မောင်တောမြို့နယ်
+,,,,,Monywa,Monywa,ရမ်းဗြဲမဲဆန္ဒနယ်,ရမ်းဗြဲမြို့နယ်
+,,,,,Mawlaik,Mawlaik,ရသေ့တောင်မဲဆန္ဒနယ်,ရသေ့တောင်မြို့နယ်
+,,,,,Yinmarbin,Yinmarbin,သံတွဲမဲဆန္ဒနယ်,သံတွဲမြို့နယ်
+,,,,,Shwebo,Shwebo,အမ်းမဲဆန္ဒနယ်,အမ်းမြို့နယ်
+,,,,,Ye-U,Ye-U,ကမာရွတ်မဲဆန္ဒနယ်,ကမာရွတ်မြို့နယ်
+,,,,,Lahe,Lahe,ကျောက်တံတားမဲဆန္ဒနယ်,ကျောက်တံတားမြို့နယ်
+,,,,,Lay Shi,Lay Shi,ကျောက်တန်းမဲဆန္ဒနယ်,ကျောက်တန်းမြို့နယ်
+,,,,,Wetlet,Wetlet,ကြည့်မြင်တိုင်မဲဆန္ဒနယ်,ကြည့်မြင်တိုင်မြို့နယ်
+,,,,,Wuntho,Wuntho,ကွမ်းခြံကုန်းမဲဆန္ဒနယ်,ကွမ်းခြံကုန်းမြို့နယ်
+,,,,,Homalin,Homalin,ကိုကိုးကျွန်းမဲဆန္ဒနယ်,ကိုကိုးကျွန်းမြို့နယ်
+,,,,,Indaw,Indaw,ကော့မှူးမဲဆန္ဒနယ်,ကော့မှူးမြို့နယ်
+,,,,,Ayadaw,Ayadaw,ခရမ်းမဲဆန္ဒနယ်,ခရမ်းမြို့နယ်
+,,,,,Kengtung,Kengtung,စမ်းချောင်းမဲဆန္ဒနယ်,စမ်းချောင်းမြို့နယ်
+,,,,,Kyethi,Kyethi,ဆိပ်ကမ်းမဲဆန္ဒနယ်,ဆိပ်ကမ်းမြို့နယ်
+,,,,,Kyaukme,Kyaukme,ဆိပ်ကြီး/ခနောင်တိုမဲဆန္ဒနယ်,ဆိပ်ကြီး/ခနောင်တိုမြို့နယ်
+,,,,,Kalaw,Kalaw,တွံတေးမဲဆန္ဒနယ်,တွံတေးမြို့နယ်
+,,,,,Kutkai,Kutkai,တာမွေမဲဆန္ဒနယ်,တာမွေမြို့နယ်
+,,,,,Kunhing,Kunhing,တိုက်ကြီးမဲဆန္ဒနယ်,တိုက်ကြီးမြို့နယ်
+,,,,,Kunlong,Kunlong,တောင်ဥက္ကလာပမဲဆန္ဒနယ်,တောင်ဥက္ကလာပမြို့နယ်
+,,,,,Konkyan,Konkyan,ထန်းတပင်မဲဆန္ဒနယ်,ထန်းတပင်မြို့နယ်
+,,,,,Hsihseng,Hsihseng,ဒဂုံမြို့သစ်(ဆိပ်ကမ်း)မဲဆန္ဒနယ်,ဒဂုံမြို့သစ်(ဆိပ်ကမ်း)မြို့နယ်
+,,,,,Nyaungshwe,Nyaungshwe,ဒဂုံမြို့သစ်(တောင်ပိုင်း)မဲဆန္ဒနယ်,ဒဂုံမြို့သစ်(တောင်ပိုင်း)မြို့နယ်
+,,,,,Tangyan,Tangyan,ဒဂုံမြို့သစ်(မြောက်ပိုင်း)မဲဆန္ဒနယ်,ဒဂုံမြို့သစ်(မြောက်ပိုင်း)မြို့နယ်
+,,,,,Tachileik,Tachileik,ဒဂုံမြို့သစ်(အရှေ့ပိုင်း)မဲဆန္ဒနယ်,ဒဂုံမြို့သစ်(အရှေ့ပိုင်း)မြို့နယ်
+,,,,,Taunggyi,Taunggyi,ဒဂုံမဲဆန္ဒနယ်,ဒဂုံမြို့နယ်
+,,,,,Namtu,Namtu,ဒလမဲဆန္ဒနယ်,ဒလမြို့နယ်
+,,,,,Namhkan,Namhkan,ဒေါပုံမဲဆန္ဒနယ်,ဒေါပုံမြို့နယ်
+,,,,,Nansang,Nansang,ပန်းဘဲတန်းမဲဆန္ဒနယ်,ပန်းဘဲတန်းမြို့နယ်
+,,,,,Namhsan,Namhsan,ပုဇွန်တောင်မဲဆန္ဒနယ်,ပုဇွန်တောင်မြို့နယ်
+,,,,,Narphan,Narphan,ဗဟန်းမဲဆန္ဒနယ်,ဗဟန်းမြို့နယ်
+,,,,,Nawnghkio,Nawnghkio,ဗိုလ်တထောင်မဲဆန္ဒနယ်,ဗိုလ်တထောင်မြို့နယ်
+,,,,,Pindaya,Pindaya,မင်္ဂလာတောင်ညွန့်မဲဆန္ဒနယ်,မင်္ဂလာတောင်ညွန့်မြို့နယ်
+,,,,,Pinlaung,Pinlaung,မင်္ဂလာဒုံမဲဆန္ဒနယ်,မင်္ဂလာဒုံမြို့နယ်
+,,,,,Pangsang,Pangsang,မရမ်းကုန်းမဲဆန္ဒနယ်,မရမ်းကုန်းမြို့နယ်
+,,,,,Pangwaun,Pangwaun,မြောက်ဥက္ကလာပမဲဆန္ဒနယ်,မြောက်ဥက္ကလာပမြို့နယ်
+,,,,,Pekon,Pekon,မှော်ဘီမဲဆန္ဒနယ်,မှော်ဘီမြို့နယ်
+,,,,,Matman,Matman,ရန်ကင်းမဲဆန္ဒနယ်,ရန်ကင်းမြို့နယ်
+,,,,,Man Tun,Man Tun,ရွှေပြည်သာမဲဆန္ဒနယ်,ရွှေပြည်သာမြို့နယ်
+,,,,,Mabein,Mabein,လမ်းမတော်မဲဆန္ဒနယ်,လမ်းမတော်မြို့နယ်
+,,,,,Mongnai,Mongnai,လသာမဲဆန္ဒနယ်,လသာမြို့နယ်
+,,,,,Mongmit,Mongmit,လှည်းကူးမဲဆန္ဒနယ်,လှည်းကူးမြို့နယ်
+,,,,,Mongkaing,Mongkaing,လှိုင်မဲဆန္ဒနယ်,လှိုင်မြို့နယ်
+,,,,,Mongkhet,Mongkhet,လှိုင်သာယာမဲဆန္ဒနယ်,လှိုင်သာယာမြို့နယ်
+,,,,,Monghsat,Monghsat,သင်္ဃန်းကျွန်းမဲဆန္ဒနယ်,သင်္ဃန်းကျွန်းမြို့နယ်
+,,,,,Mongton,Mongton,သန်လျင်မဲဆန္ဒနယ်,သန်လျင်မြို့နယ်
+,,,,,Mongpan,Mongpan,သာကေတမဲဆန္ဒနယ်,သာကေတမြို့နယ်
+,,,,,Mongping,Mongping,သုံးခွမဲဆန္ဒနယ်,သုံးခွမြို့နယ်
+,,,,,Mong Pawk,Mong Pawk,အင်းစိန်မဲဆန္ဒနယ်,အင်းစိန်မြို့နယ်
+,,,,,Mongmao,Mongmao,အလုံမဲဆန္ဒနယ်,အလုံမြို့နယ်
+,,,,,Monghpyak,Monghpyak,ကျိုင်းတုံမဲဆန္ဒနယ်,ကျိုင်းတုံမြို့နယ်
+,,,,,Mongyawng,Mongyawng,ကျေးသီးမဲဆန္ဒနယ်,ကျေးသီးမြို့နယ်
+,,,,,Mongyai,Mongyai,ကျောက်မဲမဲဆန္ဒနယ်,ကျောက်မဲမြို့နယ်
+,,,,,Monghsu,Monghsu,ကလောမဲဆန္ဒနယ်,ကလောမြို့နယ်
+,,,,,Mongla,Mongla,ကွတ်ခိုင်မဲဆန္ဒနယ်,ကွတ်ခိုင်မြို့နယ်
+,,,,,Muse,Muse,ကွန်ဟိန်းမဲဆန္ဒနယ်,ကွန်ဟိန်းမြို့နယ်
+,,,,,Mawkmai,Mawkmai,ကွမ်းလုံမဲဆန္ဒနယ်,ကွမ်းလုံမြို့နယ်
+,,,,,Lawksawk,Lawksawk,ကုန်းကြမ်းမဲဆန္ဒနယ်,ကုန်းကြမ်းမြို့နယ်
+,,,,,Ywangan,Ywangan,ဆီဆိုင်မဲဆန္ဒနယ်,ဆီဆိုင်မြို့နယ်
+,,,,,Langkho,Langkho,ညောင်ရွှေမဲဆန္ဒနယ်,ညောင်ရွှေမြို့နယ်
+,,,,,Loilen,Loilen,တန့်ယန်းမဲဆန္ဒနယ်,တန့်ယန်းမြို့နယ်
+,,,,,Lashio,Lashio,တာချီလိတ်မဲဆန္ဒနယ်,တာချီလိတ်မြို့နယ်
+,,,,,Laukkaing,Laukkaing,တောင်ကြီးမဲဆန္ဒနယ်,တောင်ကြီးမြို့နယ်
+,,,,,Laihka,Laihka,နမ္မတူမဲဆန္ဒနယ်,နမ္မတူမြို့နယ်
+,,,,,Hseni,Hseni,နမ့်ခမ်းမဲဆန္ဒနယ်,နမ့်ခမ်းမြို့နယ်
+,,,,,Hsipaw,Hsipaw,နမ့်စန်မဲဆန္ဒနယ်,နမ့်စန်မြို့နယ်
+,,,,,Hopang,Hopang,နမ့်ဆန်မဲဆန္ဒနယ်,နမ့်ဆန်မြို့နယ်
+,,,,,Hopong,Hopong,နားဖန်မဲဆန္ဒနယ်,နားဖန်မြို့နယ်
+,,,,,Kyunsu,Kyunsu,နောင်ချိုမဲဆန္ဒနယ်,နောင်ချိုမြို့နယ်
+,,,,,Kawthoung,Kawthoung,ပင်းတယမဲဆန္ဒနယ်,ပင်းတယမြို့နယ်
+,,,,,Tanintharyi,Tanintharyi,ပင်လောင်းမဲဆန္ဒနယ်,ပင်လောင်းမြို့နယ်
+,,,,,Dawei,Dawei,ပန်ဆန်းမဲဆန္ဒနယ်,ပန်ဆန်းမြို့နယ်
+,,,,,Palaw,Palaw,ပန်ဝိုင်းမဲဆန္ဒနယ်,ပန်ဝိုင်းမြို့နယ်
+,,,,,Bokpyin,Bokpyin,ဖယ်ခုံမဲဆန္ဒနယ်,ဖယ်ခုံမြို့နယ်
+,,,,,Myeik,Myeik,မက်မန်းမဲဆန္ဒနယ်,မက်မန်းမြို့နယ်
+,,,,,Yebyu,Yebyu,မန်တုံမဲဆန္ဒနယ်,မန်တုံမြို့နယ်
+,,,,,Launglon,Launglon,မဘိမ်းမဲဆန္ဒနယ်,မဘိမ်းမြို့နယ်
+,,,,,Thayet,Thayet,မိုင်းကိုင်မဲဆန္ဒနယ်,မိုင်းကိုင်မြို့နယ်
+,,,,,Za Bu Thi Ri,Za Bu Thi Ri,မိုင်းခတ်မဲဆန္ဒနယ်,မိုင်းခတ်မြို့နယ်
+,,,,,Zay Yar Thi Ri,Zay Yar Thi Ri,မိုင်းဆတ်မဲဆန္ဒနယ်,မိုင်းဆတ်မြို့နယ်
+,,,,,Tatkon,Tatkon,မိုင်းတုံမဲဆန္ဒနယ်,မိုင်းတုံမြို့နယ်
+,,,,,Det Khi Na Thi Ri,Det Khi Na Thi Ri,မိုင်းပန်မဲဆန္ဒနယ်,မိုင်းပန်မြို့နယ်
+,,,,,Pyinmana,Pyinmana,မိုင်းပျဉ်းမဲဆန္ဒနယ်,မိုင်းပျဉ်းမြို့နယ်
+,,,,,Poke Ba Thi Ri,Poke Ba Thi Ri,မိုင်းဖြတ်မဲဆန္ဒနယ်,မိုင်းဖြတ်မြို့နယ်
+,,,,,Lewe,Lewe,မိုင်းမောမဲဆန္ဒနယ်,မိုင်းမောမြို့နယ်
+,,,,,Oke Ta Ra Thi Ri,Oke Ta Ra Thi Ri,မိုင်းယန်းမဲဆန္ဒနယ်,မိုင်းယန်းမြို့နယ်
+,,,,,Kamaryut,Kamaryut,မိုင်းယောင်းမဲဆန္ဒနယ်,မိုင်းယောင်းမြို့နယ်
+,,,,,Kyauktada,Kyauktada,မိုင်းရယ်မဲဆန္ဒနယ်,မိုင်းရယ်မြို့နယ်
+,,,,,Kyauktan,Kyauktan,မိုင်းရှူးမဲဆန္ဒနယ်,မိုင်းရှူးမြို့နယ်
+,,,,,Kyeemyindaing,Kyeemyindaing,မိုင်းလားမဲဆန္ဒနယ်,မိုင်းလားမြို့နယ်
+,,,,,Kungyangon,Kungyangon,မိုးနဲမဲဆန္ဒနယ်,မိုးနဲမြို့နယ်
+,,,,,Cocokyun,Cocokyun,မိုးမိတ်မဲဆန္ဒနယ်,မိုးမိတ်မြို့နယ်
+,,,,,Kawhmu,Kawhmu,မူဆယ်မဲဆန္ဒနယ်,မူဆယ်မြို့နယ်
+,,,,,Kayan,Kayan,မောက်မယ်မဲဆန္ဒနယ်,မောက်မယ်မြို့နယ်
+,,,,,Sanchaung,Sanchaung,ရပ်စောက်မဲဆန္ဒနယ်,ရပ်စောက်မြို့နယ်
+,,,,,Seikkan,Seikkan,ရွာငံမဲဆန္ဒနယ်,ရွာငံမြို့နယ်
+,,,,,Seikgyikanaungto,Seikgyikanaungto,လင်းခေးမဲဆန္ဒနယ်,လင်းခေးမြို့နယ်
+,,,,,Twantay,Twantay,လွိုင်လင်မဲဆန္ဒနယ်,လွိုင်လင်မြို့နယ်
+,,,,,Tamwe,Tamwe,လားရှိုးမဲဆန္ဒနယ်,လားရှိုးမြို့နယ်
+,,,,,Taikkyi,Taikkyi,လောက်ကိုင်မဲဆန္ဒနယ်,လောက်ကိုင်မြို့နယ်
+,,,,,South Okkalapa,South Okkalapa,လဲချားမဲဆန္ဒနယ်,လဲချားမြို့နယ်
+,,,,,Htantabin,Htantabin,သိန္နီမဲဆန္ဒနယ်,သိန္နီမြို့နယ်
+,,,,,Dagon Myothit (Seikkan),Dagon Myothit (Seikkan),သီပေါမဲဆန္ဒနယ်,သီပေါမြို့နယ်
+,,,,,Dagon Myothit (South),Dagon Myothit (South),ဟိုပန်မဲဆန္ဒနယ်,ဟိုပန်မြို့နယ်
+,,,,,Dagon Myothit (North),Dagon Myothit (North),ဟိုပုံးမဲဆန္ဒနယ်,ဟိုပုံးမြို့နယ်
+,,,,,Dagon Myothit (East),Dagon Myothit (East),ကန်ကြီးထောင့်မဲဆန္ဒနယ်,ကန်ကြီးထောင့်မြို့နယ်
+,,,,,Dagon,Dagon,ကျိုက်လတ်မဲဆန္ဒနယ်,ကျိုက်လတ်မြို့နယ်
+,,,,,Dala,Dala,ကျုံပျော်မဲဆန္ဒနယ်,ကျုံပျော်မြို့နယ်
+,,,,,Dawbon,Dawbon,ကျောင်းကုန်းမဲဆန္ဒနယ်,ကျောင်းကုန်းမြို့နယ်
+,,,,,Pabedan,Pabedan,ကြံခင်းမဲဆန္ဒနယ်,ကြံခင်းမြို့နယ်
+,,,,,Pazundaung,Pazundaung,ငပုတောမဲဆန္ဒနယ်,ငပုတောမြို့နယ်
+,,,,,Bahan,Bahan,ဇလွန်မဲဆန္ဒနယ်,ဇလွန်မြို့နယ်
+,,,,,Botahtaung,Botahtaung,ညောင်တုန်းမဲဆန္ဒနယ်,ညောင်တုန်းမြို့နယ်
+,,,,,Mingalartaungnyunt,Mingalartaungnyunt,ဒေးဒရဲမဲဆန္ဒနယ်,ဒေးဒရဲမြို့နယ်
+,,,,,Mingaladon,Mingaladon,ဓနုဖြူမဲဆန္ဒနယ်,ဓနုဖြူမြို့နယ်
+,,,,,Mayangone,Mayangone,ပန်းတနော်မဲဆန္ဒနယ်,ပန်းတနော်မြို့နယ်
+,,,,,North Okkalapa,North Okkalapa,ပုသိမ်မဲဆန္ဒနယ်,ပုသိမ်မြို့နယ်
+,,,,,Hmawbi,Hmawbi,ဖျာပုံမဲဆန္ဒနယ်,ဖျာပုံမြို့နယ်
+,,,,,Yankin,Yankin,ဘိုကလေးမဲဆန္ဒနယ်,ဘိုကလေးမြို့နယ်
+,,,,,Shwepyithar,Shwepyithar,မြန်အောင်မဲဆန္ဒနယ်,မြန်အောင်မြို့နယ်
+,,,,,Lanmadaw,Lanmadaw,မြောင်းမြမဲဆန္ဒနယ်,မြောင်းမြမြို့နယ်
+,,,,,Latha,Latha,မအူပင်မဲဆန္ဒနယ်,မအူပင်မြို့နယ်
+,,,,,Hlegu,Hlegu,မော်လမြိုင်ကျွန်းမဲဆန္ဒနယ်,မော်လမြိုင်ကျွန်းမြို့နယ်
+,,,,,Hlaing,Hlaing,ရေကြည်မဲဆန္ဒနယ်,ရေကြည်မြို့နယ်
+,,,,,Hlaingtharya,Hlaingtharya,လပွတ္တာမဲဆန္ဒနယ်,လပွတ္တာမြို့နယ်
+,,,,,Thingangyun,Thingangyun,လေးမျက်နှာမဲဆန္ဒနယ်,လေးမျက်နှာမြို့နယ်
+,,,,,Thanlyin,Thanlyin,ဝါးခယ်မမဲဆန္ဒနယ်,ဝါးခယ်မမြို့နယ်
+,,,,,Thaketa,Thaketa,သာပေါင်းမဲဆန္ဒနယ်,သာပေါင်းမြို့နယ်
+,,,,,Thongwa,Thongwa,ဟင်္သာတမဲဆန္ဒနယ်,ဟင်္သာတမြို့နယ်
+,,,,,Insein,Insein,အင်္ဂပူမဲဆန္ဒနယ်,အင်္ဂပူမြို့နယ်
+,,,,,Ahlone,Ahlone,အိမ်မဲမဲဆန္ဒနယ်,အိမ်မဲမြို့နယ်

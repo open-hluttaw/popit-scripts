@@ -27,9 +27,13 @@ def update():
     for org in orgs:
         
         if org['name_en']:
-            
-            popit_id = utils.org_name_to_popitid(org['name_en'],base_url)
 
+            if org['popit_id']:
+                popit_id = org['popit_id']
+            else:
+                popit_id = utils.org_name_to_popitid(org['name_en'],base_url)
+
+            #Add new entries
             if not popit_id:
                 print "Adding Organization: " + org['name_en']
                 payload = {'name': org['name_en'] }
@@ -37,10 +41,34 @@ def update():
                               headers=headers, json=payload)
                 r.content
 
+            #Updates
             if popit_id:
-                print "Updating translations for: " + org['name_en']
-                payload = {'name': org['name_mm'] }
-                print org['name_mm'].decode('utf-8')
 
+                payload = {}
+
+                #update fields
+                print "Updating fields: \n"
+                print org['name_en']
+
+                if org['classification_en'] == 'Committee':
+
+                    payload = { 'classification': org['classification_en'] }
+
+                    print payload
+
+                    url = base_url + '/en/organizations/' + popit_id
+                    r = requests.put(url,headers=headers,json=payload)
+                    print r.content
+
+                    #translations
+                    print "Updating translations for: " + org['name_en']
+                    print org['name_mm'].decode('utf-8')
+                    
+                    payload = {'name': org['name_mm'],
+                               'classification': org['classification_mm']}
+                    
+                    url = base_url + '/my/organizations/' + popit_id
+                    r = requests.put(url,headers=headers,json=payload)
+                    print r.content
 
 update()
