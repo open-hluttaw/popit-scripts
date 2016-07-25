@@ -1,0 +1,331 @@
+popit_id,township_en,township_mm,state,constituency_pyithu,constituency_amyotha
+,Ahlone,အလုံမဲဆန္ဒနယ်,Yangon,Ahlone,Yangon-6
+,Amarapura,အမရပူရမဲဆန္ဒနယ်,Mandalay,Amarapura,Mandalay-2
+,Ann,အမ်းမဲဆန္ဒနယ်,Rakhine,Ann,Rakhine-11
+,Aunglan,အောင်လံမြို့နယ်,Magway,Aunglan,Magway-8
+,Aungmyaythazan,အောင်မြေသာစံမဲဆန္ဒနယ်,Mandalay,Aungmyaythazan,Mandalay-1
+,Ayadaw,အရာတော်မဲဆန္ဒနယ်,Sagaing,Ayadaw,Sagaing-4
+,Bago,ပဲခူးမဲဆန္ဒနယ်,Bago,Bago,Bago-1
+,Bahan,ဗဟန်းမဲဆန္ဒနယ်,Yangon,Bahan,Yangon-5
+,Banmauk,ဗန်းမောက်မဲဆန္ဒနယ်,Sagaing,Banmauk,Sagaing-7
+,Bawlake,ဘောလခဲမဲဆန္ဒနယ်,Kayah,Bawlakhe,"Kayah-8, Kayah-9"
+,Bhamo,ဗန်းမော်မဲဆန္ဒနယ်,Kachin,Bhamo,Kachin-10
+,Bilin,ဘီးလင်းမဲဆန္ဒနယ်,Mon,Bilin,Mon-12
+,Bogale,ဘိုကလေးမဲဆန္ဒနယ်,Ayeyawaddy,Bogale,Ayeyawaddy-11
+,Bokpyin,ဘုတ်ပြင်းမဲဆန္ဒနယ်,Tanintharyi,Bokpyin,Taninthayi-12
+,Botahtaung,ဗိုလ်တထောင်မဲဆန္ဒနယ်,Yangon,Botataung,Yangon-4
+,Budalin,ဘုတလင်မဲဆန္ဒနယ်,Sagaing,Budalin,Sagaing-4
+,Buthidaung,ဘူးသီးတောင်မဲဆန္ဒနယ်,Rakhine,Buthidaung,Rakhine-9
+,Chanayethazan,ချမ်းအေးသာစံမဲဆန္ဒနယ်,Mandalay,Chanayethazan,Mandalay-1
+,Chanmyathazi,ချမ်းမြသာစည်မဲဆန္ဒနယ်,Mandalay,Chanmyathazi,Mandalay-2
+,Chauk,ချောက်မြို့နယ်,Magway,Chauck,Magway-2
+,Chaung-U,ချောင်းဦးမဲဆန္ဒနယ်,Sagaing,Chaung-U,Sagaing-4
+,Chaungzon,ချောင်းဆုံမဲဆန္ဒနယ်,Mon,Chaungzon,Mon-4
+,Chipwi,ချီဖွေမဲဆန္ဒနယ်,Kachin,Chipwi,Kachin-5
+,Cocokyun,ကိုကိုးကျွန်းမဲဆန္ဒနယ်,Yangon,Cocokyun,Yangon-8
+,Dagon,ဒဂုံမဲဆန္ဒနယ်,Yangon,Dagon,Yangon-5
+,Dagon Myothit (East),ဒဂုံမြို့သစ်(အရှေ့ပိုင်း)မဲဆန္ဒနယ်,Yangon,East Dagon,Yangon-1
+,Dagon Myothit (North),ဒဂုံမြို့သစ်(မြောက်ပိုင်း)မဲဆန္ဒနယ်,Yangon,North Dagon,Yangon-1
+,Dagon Myothit (Seikkan),ဒဂုံမြို့သစ်(ဆိပ်ကမ်း)မဲဆန္ဒနယ်,Yangon,Dagon Seikkan,Yangon-2
+,Dagon Myothit (South),ဒဂုံမြို့သစ်(တောင်ပိုင်း)မဲဆန္ဒနယ်,Yangon,South Dagon,Yangon-2
+,Daik-U,ဒိုက်ဦးမဲဆန္ဒနယ်,Bago,Daik-U,Bago-3
+,Dala,ဒလမဲဆန္ဒနယ်,Yangon,Dala,Yangon-8
+,Danubyu,ဓနုဖြူမဲဆန္ဒနယ်,Ayeyawaddy,Danuphyu,Ayeyawaddy-9
+,Dawbon,ဒေါပုံမဲဆန္ဒနယ်,Yangon,Dawbon,Yangon-4
+,Dawei,ထားဝယ်မဲဆန္ဒနယ်,Tanintharyi,Dawei,Taninthayi-1
+,Dedaye,ဒေးဒရဲမဲဆန္ဒနယ်,Ayeyawaddy,Dedaye,Ayeyawaddy-10
+,Demoso,ဒီးမော့ဆိုမဲဆန္ဒနယ်,Kayah,Demoso,"Kayah-3, Kayah-4"
+,Det Khi Na Thi Ri,ဒက္ခိဏသီရိမဲဆန္ဒနယ်,Union Territory,Dekkhinathiri,Mandalay-10
+,Einme,အိမ်မဲမဲဆန္ဒနယ်,Ayeyawaddy,Einme,Ayeyawaddy-7
+,Falam,ဖလမ်းမဲဆန္ဒနယ်,Chin,Falam,Chin-4
+,Gangaw,ဂန့်ဂေါမြို့နယ်,Magway,Gangaw,Magway-12
+,Gwa,ဂွမဲဆန္ဒနယ်,Rakhine,Gwa,Rakhine-12
+,Gyobingauk,ကြို့ပင်ကောက်မဲဆန္ဒနယ်,Bago,Gyobingauk,Bago-12
+,Hakha,ဟားခါးမဲဆန္ဒနယ်,Chin,Hakha,Chin-1
+,Hinthada,ဟင်္သာတမဲဆန္ဒနယ်,Ayeyawaddy,Hinthada,Ayeyawaddy-4
+,Hkamti,ခန္တီးမဲဆန္ဒနယ်,Sagaing,Hkamti,Sagaing-11
+,Hlaing,လှိုင်မဲဆန္ဒနယ်,Yangon,Hlaing,Yangon-6
+,Hlaingbwe,လှိုင်းဘွဲ့မဲဆန္ဒနယ်,Kayin,Hlaingbwe,"Kayin-3, Kayin-4"
+,Hlaingtharya,လှိုင်သာယာမဲဆန္ဒနယ်,Yangon,Hlaingthaya,Yangon-11
+,Hlegu,လှည်းကူးမဲဆန္ဒနယ်,Yangon,Hlegu,Yangon-12
+,Hmawbi,မှော်ဘီမဲဆန္ဒနယ်,Yangon,Hmawbi,Yangon-9
+,Homalin,ဟုမ္မလင်းမဲဆန္ဒနယ်,Sagaing,Homalin,Sagaing-11
+,Hopang,ဟိုပန်မဲဆန္ဒနယ်,Shan,Hopang,Shan-12
+,Hopong,ဟိုပုံးမဲဆန္ဒနယ်,Shan,Hopong,Shan-9
+,Hpa-An,ဘားအံမဲဆန္ဒနယ်,Kayin,Hpa-An,"Kayin-1, Kayin-2"
+,Hpakant,ဖားကန့်မဲဆန္ဒနယ်,Kachin,Hpakant,Kachin-9
+,Hpapun,ဖာပွန်မဲဆန္ဒနယ်,Kayin,Hpapun,"Kayin-5, Kayin-6"
+,Hpasawng,ဖာဆောင်းမဲဆန္ဒနယ်,Kayah,Hpasawng,"Kayah-10, Kayah-11"
+,Hpruso,ဖရူဆိုမဲဆန္ဒနယ်,Kayah,Hpruso,"Kayah-5, Kayah-6"
+,Hseni,သိန္နီမဲဆန္ဒနယ်,Shan,Hseni,Shan-3
+,Hsihseng,ဆီဆိုင်မဲဆန္ဒနယ်,Shan,Hsihseng,Shan-9
+,Hsipaw,သီပေါမဲဆန္ဒနယ်,Shan,Hsipaw,Shan-4
+,Htantabin,ထန်းတပင်မဲဆန္ဒနယ်,Bago,Htantabin,Bago-6
+,Htantabin,ထန်းတပင်မဲဆန္ဒနယ်,Yangon,Htantabin,Yangon-9
+,Indaw,အင်းတော်မဲဆန္ဒနယ်,Sagaing,Indaw,Sagaing-6
+,Ingapu,အင်္ဂပူမဲဆန္ဒနယ်,Ayeyawaddy,Ingapu,Ayeyawaddy-5
+,Injangyang,အင်ဂျန်းယန်မဲဆန္ဒနယ်,Kachin,Injangyang,Kachin-5
+,Insein,အင်းစိန်မဲဆန္ဒနယ်,Yangon,Insein,Yangon-10
+,Kalaw,ကလောမဲဆန္ဒနယ်,Shan,Kalaw,Shan-1
+,Kale,ကလေးမဲဆန္ဒနယ်,Sagaing,Kale,Sagaing-8
+,Kalewa,ကလေးဝမဲဆန္ဒနယ်,Sagaing,Kalewa,Sagaing-8
+,Kamaryut,ကမာရွတ်မဲဆန္ဒနယ်,Yangon,Kamayut,Yangon-6
+,Kamma,ကံမမြို့နယ်,Magway,Kamma,Magway-7
+,Kanbalu,ကန့်ဘလူမဲဆန္ဒနယ်,Sagaing,Kanbalu,Sagaing-3
+,Kangyidaunt,ကန်ကြီးထောင့်မဲဆန္ဒနယ်,Ayeyawaddy,Kangyidaunt,Ayeyawaddy-2
+,Kani,ကနီမဲဆန္ဒနယ်,Sagaing,Kani,Sagaing-5
+,Kanpetlet,ကန်ပက်လက်မဲဆန္ဒနယ်,Chin,Kanpetlet,Chin-9
+,Katha,ကသာမဲဆန္ဒနယ်,Sagaing,Katha,Sagaing-6
+,Kawa,ကဝမဲဆန္ဒနယ်,Bago,Kawa,Bago-2
+,Kawhmu,ကော့မှူးမဲဆန္ဒနယ်,Yangon,Kawhmu,Yangon-8
+,Kawkareik,ကော့ကရိတ်မဲဆန္ဒနယ်,Kayin,Kawkareik,Kayin-10
+,Kawlin,ကောလင်းမဲဆန္ဒနယ်,Sagaing,Kawlin,Sagaing-7
+,Kawthoung,ကော့သောင်းမဲဆန္ဒနယ်,Tanintharyi,Kawthoung,Taninthayi-11
+,Kayan,ခရမ်းမဲဆန္ဒနယ်,Yangon,Kayan,Yangon-7
+,Kengtung,ကျိုင်းတုံမဲဆန္ဒနယ်,Shan,Kengtung,Shan-6
+,Khaunglanhpu,ခေါင်လန်ဖူးမဲဆန္ဒနယ်,Kachin,Khaunglanhpu,Kachin-1
+,Khin-U,ခင်ဦးမဲဆန္ဒနယ်,Sagaing,Khin-U,Sagaing-2
+,Konkyan,ကုန်းကြမ်းမဲဆန္ဒနယ်,Shan,Konkyan,Shan-11
+,Kungyangon,ကွမ်းခြံကုန်းမဲဆန္ဒနယ်,Yangon,Kungyangon,Yangon-8
+,Kunhing,ကွန်ဟိန်းမဲဆန္ဒနယ်,Shan,Kunhing,Shan-2
+,Kunlong,ကွမ်းလုံမဲဆန္ဒနယ်,Shan,Kunlong,Shan-3
+,Kutkai,ကွတ်ခိုင်မဲဆန္ဒနယ်,Shan,Kutkai,Shan-5
+,Kyaiklat,ကျိုက်လတ်မဲဆန္ဒနယ်,Ayeyawaddy,Kyaiklat,Ayeyawaddy-11
+,Kyaikmaraw,ကျိုက်မရောမဲဆန္ဒနယ်,Mon,Kyaikmaraw,Mon-3
+,Kyaikto,ကျိုက်ထိုမဲဆန္ဒနယ်,Mon,Kyaikto,Mon-11
+,Kyainseikgyi,ကြာအင်းဆိပ်ကြီးမဲဆန္ဒနယ်,Kayin,Kyainseikgyi,"Kayin-11, Kayin-12"
+,Kyangin,ကြံခင်းမဲဆန္ဒနယ်,Ayeyawaddy,Kyangin,Ayeyawaddy-5
+,Kyaukkyi,ကျောက်ကြီးမဲဆန္ဒနယ်,Bago,Kyaukkyi,Bago-7
+,Kyaukme,ကျောက်မဲမဲဆန္ဒနယ်,Shan,Kyaukme,Shan-4
+,Kyaukpadaung,ကျောက်ပန်းတောင်းမဲဆန္ဒနယ်,Mandalay,Kyaukpadaung,Mandalay-7
+,Kyaukpyu,ကျောက်ဖြူမဲဆန္ဒနယ်,Rakhine,Kyaukpyu,Rakhine-10
+,Kyaukse,ကျောက်ဆည်မဲဆန္ဒနယ်,Mandalay,Kyaukse,Mandalay-4
+,Kyauktada,ကျောက်တံတားမဲဆန္ဒနယ်,Yangon,Kyauktada,Yangon-5
+,Kyauktaga,ကျောက်တံခါးမဲဆန္ဒနယ်,Bago,Kyauktaga,Bago-4
+,Kyauktan,ကျောက်တန်းမဲဆန္ဒနယ်,Yangon,Kyauktan,Yangon-7
+,Kyauktaw,ကျောက်တော်မဲဆန္ဒနယ်,Rakhine,Kyauktaw,Rakhine-5
+,Kyaunggon,ကျောင်းကုန်းမဲဆန္ဒနယ်,Ayeyawaddy,Kyaunggon,Ayeyawaddy-2
+,Kyeemyindaing,ကြည့်မြင်တိုင်မဲဆန္ဒနယ်,Yangon,Kyeemyindaing,Yangon-6
+,Kyethi,ကျေးသီးမဲဆန္ဒနယ်,Shan,Kyethi,Shan-2
+,Kyonpyaw,ကျုံပျော်မဲဆန္ဒနယ်,Ayeyawaddy,Kyonpyaw,Ayeyawaddy-3
+,Kyunhla,ကျွန်းလှမဲဆန္ဒနယ်,Sagaing,Kyunhla,Sagaing-3
+,Kyunsu,ကျွန်းစုမဲဆန္ဒနယ်,Tanintharyi,Kyunsu,"Taninthayi-7, Taninthayi-8"
+,Labutta,လပွတ္တာမဲဆန္ဒနယ်,Ayeyawaddy,Labutta,Ayeyawaddy-12
+,Lahe,လဟယ်မဲဆန္ဒနယ်,Sagaing,Lahe,Sagaing-12
+,Laihka,လဲချားမဲဆန္ဒနယ်,Shan,Laihka,Shan-2
+,Langkho,လင်းခေးမဲဆန္ဒနယ်,Shan,Langkho,Shan-2
+,Lanmadaw,လမ်းမတော်မဲဆန္ဒနယ်,Yangon,Lanmadaw,Yangon-6
+,Lashio,လားရှိုးမဲဆန္ဒနယ်,Shan,Lashio,Shan-3
+,Latha,လသာမဲဆန္ဒနယ်,Yangon,Latha,Yangon-6
+,Laukkaing,လောက်ကိုင်မဲဆန္ဒနယ်,Shan,Laukkaing,Shan-11
+,Launglon,လောင်းလုံးမဲဆန္ဒနယ်,Tanintharyi,Launglon,Taninthayi-2
+,Lawksawk,ရပ်စောက်မဲဆန္ဒနယ်,Shan,Lawksawk,Shan-1
+,Lay Shi,လေရှီးမဲဆန္ဒနယ်,Sagaing,Lay Shi,Sagaing-12
+,Lemyethna,လေးမျက်နှာမဲဆန္ဒနယ်,Ayeyawaddy,Lemyethna,Ayeyawaddy-4
+,Letpadan,လက်ပံတန်းမဲဆန္ဒနယ်,Bago,Letpadan,Bago-10
+,Lewe,လယ်ဝေးမဲဆန္ဒနယ်,Union Territory,Lewe,Mandalay-10
+,Loikaw,လွိုင်ကော်မဲဆန္ဒနယ်,Kayah,Loikaw,"Kayah-1, Kayah-2"
+,Loilen,လွိုင်လင်မဲဆန္ဒနယ်,Shan,Loilen,Shan-2
+,Mabein,မဘိမ်းမဲဆန္ဒနယ်,Shan,Mabein,Shan-4
+,Machanbaw,မချမ်းဘောမဲဆန္ဒနယ်,Kachin,Machanbaw,Kachin-1
+,Madaya,မတ္တရာမဲဆန္ဒနယ်,Mandalay,Madaya,Mandalay-3
+,Magway,မကွေးမြို့နယ်,Magway,Magway,Magway-1
+,Mahaaungmyay,မဟာအောင်မြေမဲဆန္ဒနယ်,Mandalay,Mahaaungmyay,Mandalay-2
+,Mahlaing,မလှိုင်မဲဆန္ဒနယ်,Mandalay,Mahlaing,Mandalay-11
+,Man Si,မံစီမဲဆန္ဒနယ်,Kachin,Mansi,Kachin-12
+,Man Tun,မန်တုံမဲဆန္ဒနယ်,Shan,Manton,Shan-10
+,Matman,မက်မန်းမဲဆန္ဒနယ်,Shan,Matman,Shan-12
+,Matupi,မတူပီမဲဆန္ဒနယ်,Chin,Matupi,Chin-10
+,Maubin,မအူပင်မဲဆန္ဒနယ်,Ayeyawaddy,Maubin,Ayeyawaddy-8
+,Maungdaw,မောင်တောမဲဆန္ဒနယ်,Rakhine,Maungdaw,"Rakhine-7, Rakhine-8"
+,Mawkmai,မောက်မယ်မဲဆန္ဒနယ်,Shan,Mawkmai,Shan-2
+,Mawlaik,မော်လိုက်မဲဆန္ဒနယ်,Sagaing,Mawlaik,Sagaing-10
+,Mawlamyine,မော်လမြိုင်မဲဆန္ဒနယ်,Mon,Mawlamyine,Mon-1
+,Mawlamyinegyun,မော်လမြိုင်ကျွန်းမဲဆန္ဒနယ်,Ayeyawaddy,Mawlamyinegyun,Ayeyawaddy-12
+,Mayangone,မရမ်းကုန်းမဲဆန္ဒနယ်,Yangon,Mayangone,Yangon-5
+,Meiktila,မိတ္ထီလာမဲဆန္ဒနယ်,Mandalay,Meiktila,Mandalay-11
+,Mese,မယ်စဲမဲဆန္ဒနယ်,Kayah,Mese,Kayah-12
+,Minbu,မင်းဘူးမြို့နယ်,Magway,Minbu,Magway-5
+,Minbya,မင်းပြားမဲဆန္ဒနယ်,Rakhine,Minbya,Rakhine-6
+,Mindat,မင်းတပ်မဲဆန္ဒနယ်,Chin,Mindat,Chin-8
+,Mindon,မင်းတုန်းမြို့နယ်,Magway,Mindon,Magway-7
+,Mingaladon,မင်္ဂလာဒုံမဲဆန္ဒနယ်,Yangon,Mingaladon,Yangon-10
+,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်မဲဆန္ဒနယ်,Yangon,Mingalartaungnyunt,Yangon-4
+,Mingin,မင်းကင်းမဲဆန္ဒနယ်,Sagaing,Mingin,Sagaing-8
+,Minhla,မင်းလှမြို့နယ်,Bago,Minhla,Bago-11
+,Minhla,မင်းလှမဲဆန္ဒနယ်,Magway,Minhla,Magway-7
+,Mogaung,မိုးကောင်းမဲဆန္ဒနယ်,Kachin,Mogaung,Kachin-8
+,Mogoke,မိုးကုတ်မဲဆန္ဒနယ်,Mandalay,Mogoke,Mandalay-3
+,Mohnyin,မိုးညှင်းမဲဆန္ဒနယ်,Kachin,Mohnyin,"Kachin-6, Kachin-7"
+,Momauk,မိုးမောက်မဲဆန္ဒနယ်,Kachin,Momauk,Kachin-11
+,Monghpyak,မိုင်းဖြတ်မဲဆန္ဒနယ်,Shan,Monghpyak,Shan-7
+,Mongyawng,မိုင်းယန်းမဲဆန္ဒနယ်,Shan,Mongyawng,Shan-7
+,Monghsat,မိုင်းဆတ်မဲဆန္ဒနယ်,Shan,Monghsat,Shan-7
+,Monghsu,မိုင်းရှူးမဲဆန္ဒနယ်,Shan,Monghsu,Shan-2
+,Mongkaing,မိုင်းကိုင်မဲဆန္ဒနယ်,Shan,Mongaung,Shan-2
+,Mongkhet,မိုင်းခတ်မဲဆန္ဒနယ်,Shan,Mongkhet,Shan-6
+,Mongla,မိုင်းလားမဲဆန္ဒနယ်,Shan,Mongla,Shan-6
+,Mongmao,မိုင်းမောမဲဆန္ဒနယ်,Shan,Mongmao,Shan-12
+,Mongmit,မိုးမိတ်မဲဆန္ဒနယ်,Shan,Mongmit,Shan-4
+,Mongnai,မိုးနဲမဲဆန္ဒနယ်,Shan,Mongnai,Shan-2
+,Mongpan,မိုင်းပန်မဲဆန္ဒနယ်,Shan,Mongpan,Shan-2
+,Mongping,မိုင်းပျဉ်းမဲဆန္ဒနယ်,Shan,Mongping,Shan-7
+,Mongton,မိုင်းတုံမဲဆန္ဒနယ်,Shan,Mongton,Shan-7
+,Mongyai,မိုင်းရယ်မဲဆန္ဒနယ်,Shan,Mongyai,Shan-3
+,Mongyawng,မိုင်းယောင်းမဲဆန္ဒနယ်,Shan,Mongyawng,Shan-7
+,Monyo,မိုးညိုမဲဆန္ဒနယ်,Bago,Monyo,Bago-11
+,Monywa,မုံရွာမဲဆန္ဒနယ်,Sagaing,Monywa,Sagaing-4
+,Mrauk-U,မြောက်ဦးမဲဆန္ဒနယ်,Rakhine,Mrauk-U,Rakhine-4
+,Mudon,မုဒုံမဲဆန္ဒနယ်,Mon,Mudon,Mon-6
+,Munaung,မာန်အောင်မဲဆန္ဒနယ်,Rakhine,Munaung,Rakhine-10
+,Muse,မူဆယ်မဲဆန္ဒနယ်,Shan,Muse,Shan-5
+,Myaing,မြိုင်မြို့နယ်,Magway,Myaing,Magway-11
+,Myanaung,မြန်အောင်မဲဆန္ဒနယ်,Ayeyawaddy,Myanaung,Ayeyawaddy-5
+,Myaung,မြောင်မဲဆန္ဒနယ်,Sagaing,Myaung,Sagaing-1
+,Myaungmya,မြောင်းမြမဲဆန္ဒနယ်,Ayeyawaddy,Myaungmya,Ayeyawaddy-6
+,Myawaddy,မြဝတီမဲဆန္ဒနယ်,Kayin,Myawaddy,Kayin-8
+,Myebon,မြေပုံမဲဆန္ဒနယ်,Rakhine,Myebon,Rakhine-6
+,Myeik,မြိတ်မြို့မဲဆန္ဒနယ်,Tanintharyi,Myeik,"Taninthayi-5, Taninthayi-6"
+,Myingyan,မြင်းခြံမဲဆန္ဒနယ်,Mandalay,Myingyan,Mandalay-5
+,Myinmu,မြင်းမူမဲဆန္ဒနယ်,Sagaing,Myinmu,Sagaing-1
+,Myitkyina,မြစ်ကြီးနား,Kachin,Myitkyina,Kachin-2
+,Myittha,မြစ်သားမဲဆန္ဒနယ်,Mandalay,Myittha,Mandalay-4
+,Myothit,မြို့သစ်မြို့နယ်,Magway,Myothit,Magway-3
+,Namhkan,နမ့်ခမ်းမဲဆန္ဒနယ်,Shan,Namhkan,Shan-5
+,Namhsan,နမ့်ဆန်မဲဆန္ဒနယ်,Shan,Namhsan,Shan-10
+,Namtu,နမ္မတူမဲဆန္ဒနယ်,Shan,Namtu,Shan-4
+,Nansang,နမ့်စန်မဲဆန္ဒနယ်,Shan,Nansang,Shan-2
+,Nanyun,နန်းယွန်းမဲဆန္ဒနယ်,Sagaing,Nanyun,Sagaing-12
+,Narphan,နားဖန်မဲဆန္ဒနယ်,Shan,Narphan,Shan-12
+,Natmauk,နတ်မောက်မြို့နယ်,Magway,Natmauk,Magway-3
+,Natogyi,နွားထိုးကြီးမဲဆန္ဒနယ်,Mandalay,Natogyi,Mandalay-6
+,Nattalin,နတ်တလင်းမဲဆန္ဒနယ်,Bago,Nattalin,Bago-12
+,Nawnghkio,နောင်ချိုမဲဆန္ဒနယ်,Shan,Nawnghkio,Shan-4
+,Nawngmun,နောင်မွန်းမဲဆန္ဒနယ်,Kachin,Nawngmun,Kachin-1
+,Ngape,ငဖဲမြို့နယ်,Magway,Ngape,Magway-6
+,Ngapudaw,ငပုတောမဲဆန္ဒနယ်,Ayeyawaddy,Ngapudaw,Ayeyawaddy-1
+,Ngazun,ငါန်းဇွန်မဲဆန္ဒနယ်,Mandalay,Ngazun,Mandalay-5
+,North Okkalapa,မြောက်ဥက္ကလာပမဲဆန္ဒနယ်,Yangon,North Okkalapa,Yangon-1
+,Nyaung-U,ညောင်ဦးမဲဆန္ဒနယ်,Mandalay,Nyaung-U,Mandalay-7
+,Nyaungdon,ညောင်တုန်းမဲဆန္ဒနယ်,Ayeyawaddy,Nyaungdon,Ayeyawaddy-8
+,Nyaunglebin,ညောင်လေးပင်မဲဆန္ဒနယ်,Bago,Nyaunglebin,Bago-4
+,Nyaungshwe,ညောင်ရွှေမဲဆန္ဒနယ်,Shan,Nyaungshwe,Shan-1
+,Oke Ta Ra Thi Ri,ဥတ္တရသီရိမဲဆန္ဒနယ်,Union Territory,Ottarathiri,Mandalay-9
+,Okpho,အုတ်ဖိုမဲဆန္ဒနယ်,Bago,Okpho,Bago-11
+,Oktwin,အုတ်တွင်းမဲဆန္ဒနယ်,Bago,Oktwin,Bago-6
+,Pabedan,ပန်းဘဲတန်းမဲဆန္ဒနယ်,Yangon,Pabedan,Yangon-5
+,Padaung,ပန်းတောင်းမဲဆန္ဒနယ်,Bago,Padaung,Bago-8
+,Pakokku,ပခုက္ကူမြို့နယ်,Magway,Pakokku,Magway-9
+,Palaw,ပုလောမဲဆန္ဒနယ်,Tanintharyi,Palaw,Taninthayi-9
+,Pale,ပုလဲမဲဆန္ဒနယ်,Sagaing,Pale,Sagaing-5
+,Paletwa,ပလက်ဝမဲဆန္ဒနယ်,Chin,Paletwa,"Chin-11, Chin-12"
+,Pangsang,ပန်ဆန်းမဲဆန္ဒနယ်,Shan,Pangsang,Shan-12
+,Pangwaun,ပန်ဝိုင်းမဲဆန္ဒနယ်,Shan,Pangwaun,Shan-12
+,Pantanaw,ပန်းတနော်မဲဆန္ဒနယ်,Ayeyawaddy,Pantanaw,Ayeyawaddy-9
+,Pathein,ပုသိမ်မဲဆန္ဒနယ်,Ayeyawaddy,Pathein,Ayeyawaddy-1
+,Patheingyi,ပုသိမ်ကြီးမဲဆန္ဒနယ်,Mandalay,Patheingyi,Mandalay-1
+,Pauk,ပေါက်မြို့နယ်,Magway,Pauk,Magway-11
+,Paukkhaung,ပေါက်ခေါင်းမဲဆန္ဒနယ်,Bago,Paukkhaung,Bago-8
+,Pauktaw,ပေါက်တောမဲဆန္ဒနယ်,Rakhine,Pauktaw,Rakhine-2
+,Paung,ပေါင်မဲဆန္ဒနယ်,Mon,Paung,Mon-10
+,Paungbyin,ဖောင်းပြင်မဲဆန္ဒနယ်,Sagaing,Paungbyin,Sagaing-10
+,Paungde,ပေါင်းတည်မဲဆန္ဒနယ်,Bago,Paungde,Bago-9
+,Pazundaung,ပုဇွန်တောင်မဲဆန္ဒနယ်,Yangon,Pazundaung,Yangon-4
+,Pekon,ဖယ်ခုံမဲဆန္ဒနယ်,Shan,Pekon,Shan-1
+,Phyu,ဖြူးမဲဆန္ဒနယ်,Bago,Phyu,Bago-7
+,Pindaya,ပင်းတယမဲဆန္ဒနယ်,Shan,Pindaya,Shan-8
+,Pinlaung,ပင်လောင်းမဲဆန္ဒနယ်,Shan,Pinlaung,Shan-9
+,Pinlebu,ပင်လည်ဘူးမဲဆန္ဒနယ်,Sagaing,Pinlebu,Sagaing-7
+,Poke Ba Thi Ri,ပုဗ္ဗသီရိမဲဆန္ဒနယ်,Union Territory,Pobbathiri,Mandalay-9
+,Ponnagyun,ပုဏ္ဏားကျွန်းမဲဆန္ဒနယ်,Rakhine,Ponnagyun,Rakhine-3
+,Puta-O,ပူတာအိုမဲဆန္ဒနယ်,Kachin,Puta-O,Kachin-1
+,Pwintbyu,ပွင့်ဖြူမြို့နယ်,Magway,Pwintbyu,Magway-5
+,Pyapon,ဖျာပုံမဲဆန္ဒနယ်,Ayeyawaddy,Pyapon,Ayeyawaddy-10
+,Pyawbwe,ပျော်ဘွယ်မဲဆန္ဒနယ်,Mandalay,Pyawbwe,Mandalay-8
+,Pyay,ပြည်မဲဆန္ဒနယ်,Bago,Pyay,Bago-8
+,Pyigyitagon,ပြည်ကြီးတံခွန်မဲဆန္ဒနယ်,Mandalay,Pyigyitagon,Mandalay-2
+,Pyinmana,ပျဥ်းမနားမဲဆန္ဒနယ်,Union Territory,Pyinmana,Mandalay-10
+,Pyinoolwin,ပြင်ဦးလွင်မဲဆန္ဒနယ်,Mandalay,Pyinoolwin,Mandalay-3
+,Ramree,ရမ်းဗြဲမဲဆန္ဒနယ်,Rakhine,Ramree,Rakhine-11
+,Rathedaung,ရသေ့တောင်မဲဆန္ဒနယ်,Rakhine,Rathedaung,Rakhine-3
+,Sagaing,စစ်ကိုင်းမဲဆန္ဒနယ်,Sagaing,Sagaing,Sagaing-1
+,Salin,စလင်းမြို့နယ်,Magway,Salin,Magway-6
+,Salingyi,ဆားလင်းကြီးမဲဆန္ဒနယ်,Sagaing,Salingyi,Sagaing-5
+,Sanchaung,စမ်းချောင်းမဲဆန္ဒနယ်,Yangon,Sanchaung,Yangon-5
+,Saw,ဆောမြို့နယ်,Magway,Saw,Magway-12
+,Seikgyikanaungto,ဆိပ်ကြီး/ခနောင်တိုမဲဆန္ဒနယ်,Yangon,Seikgyikanaungto,Yangon-8
+,Seikkan,ဆိပ်ကမ်းမဲဆန္ဒနယ်,Yangon,Seikkan,Yangon-6
+,Seikphyu,ဆိပ်ဖြူမြို့နယ်,Magway,Seikphyu,Magway-9
+,Shadaw,ရှားတောမဲဆန္ဒနယ်,Kayah,Shadaw,Kayah-7
+,Shwebo,ရွှေဘိုမဲဆန္ဒနယ်,Sagaing,Shwebo,Sagaing-2
+,Shwedaung,ရွှေတောင်မဲဆန္ဒနယ်,Bago,Shwedaung,Bago-9
+,Shwegu,ရွှေကူမဲဆန္ဒနယ်,Kachin,Shwegu,Kachin-12
+,Shwegyin,ရွှေကျင်မဲဆန္ဒနယ်,Bago,Shwegyin,Bago-3
+,Shwepyithar,ရွှေပြည်သာမဲဆန္ဒနယ်,Yangon,Shwepyithar,Yangon-9
+,Sidoktaya,စေတုတ္တရာမြို့နယ်,Magway,Sidoktaya,Magway-6
+,Sinbaungwe,ဆင်ပေါင်ဝဲမြို့နယ်,Magway,Sinbaungwe,Magway-8
+,Singu,စဥ့်ကူးမဲဆန္ဒနယ်,Mandalay,Singu,Mandalay-3
+,Sintgaing,စဥ့်ကိုင်မဲဆန္ဒနယ်,Mandalay,Sintgaing,Mandalay-4
+,Sittwe,စစ်တွေမဲဆန္ဒနယ်,Rakhine,Sittwe,Rakhine-1
+,South Okkalapa,တောင်ဥက္ကလာပမဲဆန္ဒနယ်,Yangon,South Okkalapa,Yangon-3
+,Sumprabum,ဆွမ်ပရာဘွမ်မဲဆန္ဒနယ်,Kachin,Sumprabum,Kachin-1
+,Tabayin,ဒီပဲယင်းမဲဆန္ဒနယ်,Sagaing,Tabayin,Sagaing-2
+,Tachileik,တာချီလိတ်မဲဆန္ဒနယ်,Shan,Tachileik,Shan-7
+,Tada-U,တံတားဦးမဲဆန္ဒနယ်,Mandalay,Tada-U,Mandalay-4
+,Taikkyi,တိုက်ကြီးမဲဆန္ဒနယ်,Yangon,Taikkyi,Yangon-12
+,Tamu,တမူးမဲဆန္ဒနယ်,Sagaing,Tamu,Sagaing-9
+,Tamwe,တာမွေမဲဆန္ဒနယ်,Yangon,Tamwe,Yangon-3
+,Tanai,တနိုင်းမဲဆန္ဒနယ်,Kachin,Tanai,Kachin-4
+,Tangyan,တန့်ယန်းမဲဆန္ဒနယ်,Shan,Tangyan,Shan-3
+,Tanintharyi,တနင်္သာရီမဲဆန္ဒနယ်,Tanintharyi,Tanintharyi,Taninthayi-10
+,Tatkon,တပ်ကုန်းမဲဆန္ဒနယ်,Union Territory,Tatkon,Mandalay-9
+,Taungdwingyi,တောင်တွင်းကြီးမြို့နယ်,Magway,Taungdwingyi,Magway-4
+,Taunggyi,တောင်ကြီးမဲဆန္ဒနယ်,Shan,Taunggyi,Shan-1
+,Taungoo,တောင်ငူမဲဆန္ဒနယ်,Bago,Taungoo,Bago-5
+,Taungtha,တောင်သာမဲဆန္ဒနယ်,Mandalay,Taungtha,Mandalay-6
+,Taze,တန့်ဆည်မဲဆန္ဒနယ်,Sagaing,Taze,Sagaing-3
+,Tedim,တီးတိန်မဲဆန္ဒနယ်,Chin,Tedim,"Chin-5, Chin-6"
+,Thabaung,သာပေါင်းမဲဆန္ဒနယ်,Ayeyawaddy,Thabaung,Ayeyawaddy-2
+,Thabeikkyin,သပိတ်ကျင်းမဲဆန္ဒနယ်,Mandalay,Thabeikkyin,Mandalay-3
+,Thaketa,သာကေတမဲဆန္ဒနယ်,Yangon,Thaketa,Yangon-4
+,Thanatpin,သနပ်ပင်မဲဆန္ဒနယ်,Bago,Thanatpin,Bago-2
+,Thanbyuzayat,သံဖြူဇရပ်မဲဆန္ဒနယ်,Mon,Thanbyuzayat,Mon-5
+,Thandaunggyi,သံတောင်ကြီးမဲဆန္ဒနယ်,Kayin,Thandaunggyi,Kayin-7
+,Thandwe,သံတွဲမဲဆန္ဒနယ်,Rakhine,Thandwe,Rakhine-12
+,Thanlyin,သန်လျင်မဲဆန္ဒနယ်,Yangon,Thanlyin,Yangon-7
+,Thantlang,ထန်တလန်မဲဆန္ဒနယ်,Chin,Thantlang,Chin-3
+,Thaton,သထုံမဲဆန္ဒနယ်,Mon,Thaton,Mon-9
+,Thayarwady,သာယာဝတီမဲဆန္ဒနယ်,Bago,Thayarwady,Bago-10
+,Thayetchaung,သရက်ချောင်းမဲဆန္ဒနယ်,Tanintharyi,Thayetchaung,Taninthayi-3
+,Thayet,သရက်မြို့နယ်,Magway,Thayet,Magway-7
+,Thazi,သာစည်မဲဆန္ဒနယ်,Mandalay,Thazi,Mandalay-12
+,Thegon,သဲကုန်းမဲဆန္ဒနယ်,Bago,Thegon,Bago-9
+,Thingangyun,သင်္ဃန်းကျွန်းမဲဆန္ဒနယ်,Yangon,Thingangyun,Yangon-3
+,Thongwa,သုံးခွမဲဆန္ဒနယ်,Yangon,Thongwa,Yangon-7
+,Tigyaing,ထီးချိုင့်မဲဆန္ဒနယ်,Sagaing,Tigyaing,Sagaing-6
+,Tilin,ထီးလင်းမြို့နယ်,Magway,Tilin,Magway-12
+,Tonzang,တွန်းဇံမဲဆန္ဒနယ်,Chin,Tonzang,Chin-7
+,Toungup,တောင်ကုတ်မဲဆန္ဒနယ်,Rakhine,Toungup,Rakhine-12
+,Tsawlaw,ဆော့လော်မဲဆန္ဒနယ်,Kachin,Tsawlaw,Kachin-5
+,Twantay,တွံတေးမဲဆန္ဒနယ်,Yangon,Twantay,Yangon-8
+,Waingmaw,ဝိုင်းမော်မဲဆန္ဒနယ်,Kachin,Waingmaw,Kachin-3
+,Wakema,ဝါးခယ်မမဲဆန္ဒနယ်,Ayeyawaddy,Wakema,Ayeyawaddy-7
+,Waw,ဝေါမဲဆန္ဒနယ်,Bago,Waw,Bago-3
+,Wetlet,ဝက်လက်မဲဆန္ဒနယ်,Sagaing,Wetlet,Sagaing-2
+,Wundwin,ဝမ်းတွင်းမဲဆန္ဒနယ်,Mandalay,Wundwin,Mandalay-12
+,Wuntho,ဝန်းသိုမဲဆန္ဒနယ်,Sagaing,Wuntho,Sagaing-7
+,Yamethin,ရမည်းသင်းမဲဆန္ဒနယ်,Mandalay,Yamethin,Mandalay-8
+,Yankin,ရန်ကင်းမဲဆန္ဒနယ်,Yangon,Yankin,Yangon-3
+,Ye,ရေးမဲဆန္ဒနယ်,Mon,Ye,"Mon-7, Mon-8"
+,Ye-U,ရေဦးမဲဆန္ဒနယ်,Sagaing,Ye-U,Sagaing-3
+,Yebyu,ရေဖြူမဲဆန္ဒနယ်,Tanintharyi,Yebyu,Taninthayi-4
+,Yedashe,ရေတာရှည်မဲဆန္ဒနယ်,Bago,Yedashe,Bago-5
+,Yegyi,ရေကြည်မဲဆန္ဒနယ်,Ayeyawaddy,Yegyi,Ayeyawaddy-3
+,Yenangyaung,ရေနံချောင်းမြို့နယ်,Magway,Yenangyaung,Magway-2
+,Yesagyo,ရေစကြိုမြို့နယ်,Magway,Yesagyo,Magway-10
+,Yinmarbin,ယင်းမာပင်မဲဆန္ဒနယ်,Sagaing,Yinmarbin,Sagaing-5
+,Ywangan,ရွာငံမဲဆန္ဒနယ်,Shan,Ywangan,Shan-8
+,Za Bu Thi Ri,ဇမ္ဗူသီရိမဲဆန္ဒနယ်,Union Territory,Zabuthiri,Mandalay-10
+,Zalun,ဇလွန်မဲဆန္ဒနယ်,Ayeyawaddy,Zalun,Ayeyawaddy-4
+,Zay Yar Thi Ri,ဇေယျာသီရိမဲဆန္ဒနယ်,Union Territory,Zeyarthiri,Mandalay-9
+,Zigon,ဇီးကုန်းမဲဆန္ဒနယ်,Bago,Zigon,Bago-12
