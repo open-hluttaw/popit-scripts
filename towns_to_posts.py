@@ -26,11 +26,41 @@ for progress,post in enumerate(posts):
 	amyotha  = [i.strip() for i in post['constituency_amyotha'].split(',')]
 	
 	pyithu_ids = [ utils.search_post(id,base_url)['id'] for id in pyithu ]
-
 	amyotha_ids = [ utils.search_post(id,base_url)['id'] for id in amyotha ]
 
-        post['pyithu_ids'] = pyithu_ids
-	post['amyotha_ids'] = amyotha_ids
+        pyithu_list = []
+
+        for pyithu_id in pyithu_ids:
+            r = requests.get(base_url+'/en/posts/'+ pyithu_id)
+            en_label = r.json()['result']['label']
+            r = requests.get(base_url+'/my/posts/'+ pyithu_id)
+            mm_label = r.json()['result']['label']
+
+            pyithu_json = { 'popit_id': pyithu_id,
+                            'label_en': en_label,
+                            'label_mm' :mm_label,
+                          }
+
+            pyithu_list.append(pyithu_json)
+
+        post['pyithu'] = pyithu_list
+
+        amyotha_list = []
+
+        for amyotha_id in amyotha_ids:
+            r = requests.get(base_url+'/en/posts/'+ amyotha_id)
+            en_label = r.json()['result']['label']
+            r = requests.get(base_url+'/my/posts/'+ amyotha_id)
+            mm_label = r.json()['result']['label']
+
+            amyotha_json = { 'popit_id': amyotha_id,
+                            'label_en': en_label,
+                            'label_mm' :mm_label,
+                          }
+            amyotha_list.append(amyotha_json)
+
+
+	post['amyotha'] = amyotha_list
 
   	fish.animate(amount=progress)	
 
